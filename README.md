@@ -412,7 +412,7 @@ We will use github action to deploy bot.
   
 ![image](https://user-images.githubusercontent.com/77688759/161786918-7c57a659-197d-44cb-865a-748fbf14f075.png)
   
-then it means the name you used for `HEROKU_APP_NAME` is alreeady taken. so go to the repo secrets again find that `HEROKU_APP_NAME` secret click on update and choose a diffrent name (i already said name must be unique) and start the workflow again.
+then it means the name you used for `HEROKU_APP_NAME` is already taken <b>duhh?</b>. so go to the repo secrets again find that `HEROKU_APP_NAME` secret click on update and choose a diffrent name (i already said name must be unique) and start the workflow again.
   
 - Once deployment done
 
