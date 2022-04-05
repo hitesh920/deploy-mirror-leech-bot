@@ -246,7 +246,7 @@ use it for `Share Drive ID or root`
 
 ![image](https://user-images.githubusercontent.com/77688759/161736899-c38cfa61-e55f-423e-a747-d169f6d31eab.png)
 
-then click on submit and copy the genrated code
+then click on submit and copy the genrated for your index 
 
 ![image](https://user-images.githubusercontent.com/77688759/161737009-ea620aef-7e44-436a-b84e-d6d5e6143daa.png)
 
@@ -255,3 +255,27 @@ now goto [cloudflare](https://www.cloudflare.com/) and sign up for an account.
 then goto  `workers`
 
 ![image](https://user-images.githubusercontent.com/77688759/161737351-e2324694-a145-4a14-850b-43f3e718d024.png)
+![image](https://user-images.githubusercontent.com/77688759/161737457-28bedba5-5e0b-4c53-84d9-89629a0467a6.png)
+![image](https://user-images.githubusercontent.com/77688759/161737508-e8021e09-89ef-4da9-bb5e-1e8b2a58a6dc.png)
+
+then complete the verification process and come back to the `workers` section again.
+
+![image](https://user-images.githubusercontent.com/77688759/161737755-d5475d08-0b2d-4b32-8b63-a6c57674f7b6.png)
+![image](https://user-images.githubusercontent.com/77688759/161737848-9cbc23d0-edeb-424c-a9e5-73bbb8480b23.png)
+![image](https://user-images.githubusercontent.com/77688759/161737948-9c5f1dc2-5a81-4e71-8721-de03fe813b99.png)
+
+remove all the content from here
+
+![image](https://user-images.githubusercontent.com/77688759/161738144-1f6c94c6-7753-459d-8fe3-0ceb2d60ece0.png)
+
+and paste the code u genrated for your index then click on `save and deploy`
+
+![image](https://user-images.githubusercontent.com/77688759/161738371-a344f75a-da78-49a3-ac30-2bd886df9b50.png)
+![image](https://user-images.githubusercontent.com/77688759/161738430-03e9d198-c810-457c-8315-db54b900b5c3.png)
+
+now wait for 10 seconds your index will be online.
+
+you can click here or save the link for your index
+
+![image](https://user-images.githubusercontent.com/77688759/161738546-de13a74a-36cf-4949-b13e-74a650681f8f.png)
+
