@@ -389,6 +389,8 @@ Then goto https://my.telegram.org/apps
 <details>
   
   <summary>CLick Here</summary>
+
+We will use github action to deploy bot. 
   
 - Goto your `forked repo` > `action` 
 
@@ -398,14 +400,20 @@ Then goto https://my.telegram.org/apps
 ![image](https://user-images.githubusercontent.com/77688759/161756350-05bb6617-4c36-4133-915f-ee460cc1046e.png)
 ![image](https://user-images.githubusercontent.com/77688759/161756393-a5c09aaf-2e9b-4e81-a009-d11715eb1dad.png)
 
-- Now wait for 3-4 minutes, your workflow will start.
+- Now your workflow will start, deploy will take arround 3-4 minutes.
 
 - You can check the workflow logs at
 
 ![image](https://user-images.githubusercontent.com/77688759/161756625-5d687723-c6a1-4bd7-b74e-8e2f27fe6611.png)
 ![image](https://user-images.githubusercontent.com/77688759/161756690-acff8feb-f84d-4424-ae67-9812dc2cc4b1.png)
 ![image](https://user-images.githubusercontent.com/77688759/161756737-0d68d550-ec89-42f4-a95d-9b023d69fa82.png)
-
+  
+- If you get eror like name already taken
+  
+![image](https://user-images.githubusercontent.com/77688759/161786918-7c57a659-197d-44cb-865a-748fbf14f075.png)
+  
+then it means the name you used for `HEROKU_APP_NAME` is alreeady taken. so go to the repo secrets again find that `HEROKU_APP_NAME` secret click on update and choose a diffrent name (i already said name must be unique) and start the workflow again.
+  
 - Once deployment done
 
 ![image](https://user-images.githubusercontent.com/77688759/161757135-f49d1799-a564-4688-a5e8-3adf879691e3.png)
