@@ -298,7 +298,7 @@ we have successfully created our config.env
   
 </details>
   
-## Step 5: Getting Ready For The Deploy
+## Step 5: Setting Up Secrets For Github Action
 
 goto your forked repo > settings > secrets > action
 
@@ -311,3 +311,26 @@ now u need to create 4 secrets here
 - HEROKU_API_KEY
 - HEROKU_APP_NAME
 - CONFIG_FILE_URL
+
+### HEROKU_EMAIL:
+your heroku email.
+
+### HEROKU_API_KEY
+goto your heroku account settings [Here](https://dashboard.heroku.com/account)
+
+scroll down and copy thr api key
+
+![image](https://user-images.githubusercontent.com/77688759/161752797-4a3c4798-352e-4c33-af23-ac0b5b9af3bf.png)
+
+### HEROKU_APP_NAME:
+name you would like to give to your heroku apps (must be unique)
+
+### CONFIG_FILE_URL:
+goto that gist you created for the config.env
+
+then click on raw
+  
+![image](https://user-images.githubusercontent.com/77688759/161732830-d9489120-9d3c-4f74-8619-8c1fb94b8478.png)
+
+and copy the url and remove the commit id
+for eg https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env then the commit id will the the one after raw/ and before /config.env
