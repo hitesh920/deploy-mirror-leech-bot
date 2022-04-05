@@ -185,10 +185,12 @@ and paste the code u genrated for your index then click on `save and deploy`
 
 now wait for 10 seconds your index will be online.
 
-save the link for your index
+then goto your index link u just deployed
 
 ![image](https://user-images.githubusercontent.com/77688759/161738546-de13a74a-36cf-4949-b13e-74a650681f8f.png)
 
+save the index link, it will come handy later.  
+  
 now goto that folder u create for the index and upload your credentials.json and token.pickel.
 
 ![image](https://user-images.githubusercontent.com/77688759/161739280-c3e0f525-ea12-4d1d-80ec-03d492cc34ca.png)
