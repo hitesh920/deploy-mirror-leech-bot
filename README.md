@@ -158,4 +158,9 @@ search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` 
 ![image](https://user-images.githubusercontent.com/77688759/161728959-fa766198-0e34-4d4d-bd51-f30f357d7d78.png)
 
 now click here to go to your shared drive you just created.
+now copy the root id of your shared drive
+
+![image](https://user-images.githubusercontent.com/77688759/161729686-d9e79a8f-4479-46ae-84dc-1989df4c75f9.png)
+
+that will be the value of GDRIVE_FOLDER_ID 
 
