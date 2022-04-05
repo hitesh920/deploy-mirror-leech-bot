@@ -37,18 +37,18 @@ k then lets start.
 ![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)
 ![image](https://user-images.githubusercontent.com/77688759/161712650-1f2b0f7b-0a74-4527-a699-3e09feea2d3a.png)
 
-Now select the project you just create.
+- Now select the project you just create.
 
 ![image](https://user-images.githubusercontent.com/77688759/161712843-6c725354-c795-45d2-a008-6399d30df46b.png)
 ![image](https://user-images.githubusercontent.com/77688759/161712899-18bfe7d8-1454-483e-8d09-73bb2959b47e.png)
 
-Now search for drive api and enable it.
+- Now search for drive api and enable it.
 
 ![image](https://user-images.githubusercontent.com/77688759/161713016-ebf934d5-e0a4-45b2-80f1-229f655feddb.png)
 ![image](https://user-images.githubusercontent.com/77688759/161713088-518e509c-340a-4786-9bd2-2d079e461f31.png)
 ![image](https://user-images.githubusercontent.com/77688759/161713346-688ebc8c-7335-4de8-8f6c-3ce75dc6a06b.png)
 
-After enabling drive api, goto your oauth sonsent screen
+- After enabling drive api, goto your oauth sonsent screen
 
 ![image](https://user-images.githubusercontent.com/77688759/161714067-b246af4e-d537-43cd-9604-88fc04c457a6.png)
 ![image](https://user-images.githubusercontent.com/77688759/161714348-7329c817-a7b3-40b3-b8b1-a51df465aae7.png)
@@ -65,17 +65,17 @@ After enabling drive api, goto your oauth sonsent screen
 ![image](https://user-images.githubusercontent.com/77688759/161715635-5a915180-18b7-4487-b3d7-d9683c65d599.png)
 ![image](https://user-images.githubusercontent.com/77688759/161715762-dad89c26-6b64-46c6-a5ac-9eac373658cc.png)
 
-And done now download your .json file. 
+- And done now download your .json file. 
 
 ![image](https://user-images.githubusercontent.com/77688759/161715944-34b24641-a2b9-4236-8f97-b1a292e5e3e5.png)
 
-After download rename it to `credentials.json`
+- After download rename it to `credentials.json`
 
-Now move that credentials.json file to the extracted repo folder
+- Now move that credentials.json file to the extracted repo folder
 
 ![image](https://user-images.githubusercontent.com/77688759/161720299-4ee43d15-f136-41e0-b5f7-2bb822429999.png)
 
-We are done with the credentials.json file.
+- We are done with the credentials.json file.
 
 </details>
   
@@ -85,46 +85,46 @@ We are done with the credentials.json file.
   
   <summary>Click Here</summary>
   
-For genrating token.pickel you will need python
+- For genrating token.pickel you will need python
 
-so install python from this link [Here](https://www.python.org/downloads/)
+- so install python from this link [Here](https://www.python.org/downloads/)
   
-while installing, make sure thagt `add to the path` option is selected.
+- while installing, make sure thagt `add to the path` option is selected.
 
-onced installed, open cmd and type `python --version` to make that you have installed python correctly.
+- onced installed, open cmd and type `python --version` to make that you have installed python correctly.
   
 ![image](https://user-images.githubusercontent.com/77688759/161721207-223e78f8-d9dc-4b76-9314-0fe76d5bc109.png)
 
-Ok, now goto your extracted folder click on the address bar and type cmd then hit enter.
+- Ok, now goto your extracted folder click on the address bar and type cmd then hit enter.
   
 ![image](https://user-images.githubusercontent.com/77688759/161721454-52142434-4f3e-44b5-a3f5-7f0fd9b4f03f.png)
 ![image](https://user-images.githubusercontent.com/77688759/161721551-cf5d24b4-b518-4245-997b-a5b72409ed1e.png)
 ![image](https://user-images.githubusercontent.com/77688759/161721614-1a1af809-229c-49df-9f85-64f33debd543.png)
 
-There you go.
+- There you go.
 
-Now give command
+- Now give command
 
 `pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib`
 
-Now make sure to set a default browser, in my case chrome is the default.
+- Now make sure to set a default browser, in my case chrome is the default.
 
 Then run
 
 `python generate_drive_token.py`
 
-One browser window will open the follow the on screen prompt
+- One browser window will open the follow the on screen prompt
   
 ![image](https://user-images.githubusercontent.com/77688759/161724909-723eac9b-3caa-46bf-803c-4dd0c42b3642.png)
 ![image](https://user-images.githubusercontent.com/77688759/161724965-ba3068e6-720e-4331-9b71-a890cb8e8731.png)
 ![image](https://user-images.githubusercontent.com/77688759/161725004-91f84911-ea58-426e-a0d4-ea28db5dc54b.png)
 ![image](https://user-images.githubusercontent.com/77688759/161725045-d16bcb9c-1f4b-49e0-a18e-af7e6dc66103.png)
 
-Now after you reach this screen 
+- Now after you reach this screen 
   
 ![image](https://user-images.githubusercontent.com/77688759/161725108-78da920f-70f8-4f46-9cb7-b2015651cfcf.png)
 
-token.pickel will be available in the ectracted repo folder
+- token.pickel will be available in the ectracted repo folder
   
 ![image](https://user-images.githubusercontent.com/77688759/161725413-bfd6dc6f-2d0c-4668-98ba-525d73467c65.png)
 
@@ -136,29 +136,29 @@ token.pickel will be available in the ectracted repo folder
   
   <summary>Click Here</summary>
   
-Now we need to host our token.pickel and credentials.json 
+- Now we need to host our token.pickel and credentials.json 
 
-For that we will be going to use index.
+- For that we will be going to use index.
 
-We will use this [repo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index) for our hosting.
+- We will use this [repo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index) for our hosting.
 
-go to [this](https://bdi-generator.hashhackers.com/) site 
+- Go to [this](https://bdi-generator.hashhackers.com/) site 
 
 ![image](https://user-images.githubusercontent.com/77688759/161735755-06598ea0-0683-4a46-932c-02f1047721cb.png)
 
-Sign in to get the Authentication Code
+- Sign in to get the Authentication Code
 
 ![image](https://user-images.githubusercontent.com/77688759/161735885-5fd3e64b-9e1b-4b0e-99d0-2b045055d13b.png)
 ![image](https://user-images.githubusercontent.com/77688759/161735955-afaad737-526c-4d3d-81c8-aa3eee18dc9d.png)
 ![image](https://user-images.githubusercontent.com/77688759/161736007-c3719cd2-0669-4eba-9632-573b4a4f6138.png)
 
-Paste that code in `Authentication Code`
+- Paste that code in `Authentication Code`
 
 ![image](https://user-images.githubusercontent.com/77688759/161736264-f68a9e54-e495-4a16-aaea-351334164ff0.png)
 
-For `Site Name` you can give any for eg `personal`
+- For `Site Name` you can give any for eg `personal`
 
-For `Share Drive ID or root` goto your drive and create a new folder for your index (dont create this folder in shared drive you created previously)
+- For `Share Drive ID or root` goto your drive and create a new folder for your index (dont create this folder in shared drive you created previously)
 
 ![image](https://user-images.githubusercontent.com/77688759/161736709-0adeca7d-f0d1-4caf-813a-a320822bdfe4.png)
 
