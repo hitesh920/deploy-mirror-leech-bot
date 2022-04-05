@@ -407,9 +407,9 @@ and done, congratulations.
   
 ### Setting Up Bot Commands
   
-  <details>
+<details>
     
-    <summary>Click Here</summary>
+  <summary>Click Here</summary>
   
 goto botfather.
 type `/setcommands` and send
@@ -462,6 +462,6 @@ help - All cmds with description
   
 and done! 
     
-    </details>
+</details>
   
 </details>  
