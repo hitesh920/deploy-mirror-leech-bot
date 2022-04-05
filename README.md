@@ -237,6 +237,8 @@ Then goto  `workers`
 ![image](https://user-images.githubusercontent.com/77688759/161727191-4f5038e8-aaee-49f4-bba7-cbe849386853.png)
 
 - Now remove line no 2. `_____REMOVE_THIS_LINE_____=True`
+  
+![image](https://user-images.githubusercontent.com/77688759/161783724-04062575-c742-4500-9eb4-b703363bb037.png)  
 
 - Then start filling the config vars.
 
