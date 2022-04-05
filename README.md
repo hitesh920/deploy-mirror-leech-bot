@@ -129,6 +129,10 @@ token.pickel will be available in the ectracted repo folder
 
 ## Create config.env
 
+<details>
+  
+  <summary>Click Here</summary>
+  
 go [here](https://github.com/anasty17/mirror-leech-telegram-bot/raw/master/config_sample.env) and copy all the content.
 then goto [github gist](https://gist.github.com/)
 
@@ -188,5 +192,8 @@ got [here](my.telegram.org) register with your number connected to telegram acco
 
 this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
 
-api_id will be your TELEGRAM_API
-api_hash TELEGRAM_HASH
+<b>api_id</b> will be your TELEGRAM_API and <b>api_hash</b> TELEGRAM_HASH
+
+and we are done with the all necessary configs for the proper working of the mirror leech bot.
+  
+</details>  
