@@ -303,8 +303,7 @@ we have successfully created our config.env
 goto your forked repo > settings > secrets > action
 
 ![image](https://user-images.githubusercontent.com/77688759/161750596-e539db44-2a42-4ac9-bc0d-b593777f84ee.png)
-![image](https://user-images.githubusercontent.com/77688759/161750650-1755f7fc-ad6a-430a-8675-e27fd8512e69.png)
-![image](https://user-images.githubusercontent.com/77688759/161750693-87fddba9-a47a-461c-8397-7b169e14b6d7.png)
+![image](https://user-images.githubusercontent.com/77688759/161753272-ddad44c9-2c98-40d0-b06a-67027ab222dd.png)
 
 now u need to create 4 secrets here
 - HEROKU_EMAIL
