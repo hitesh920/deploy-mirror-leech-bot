@@ -20,15 +20,7 @@ Now download that repo to your pc.
 
 the downloaded repo will be in zip file, extract it.
 
-## Required files for the mirror leech bot
-
-Now there are 3 files needed for the working of mirror leech bot.
-- credentials.json
-- token.pickel
-- config.env
-will create those one by one
-
-## Create credential.json
+## Step 1: Create credential.json
 
 <details>
   
@@ -82,7 +74,7 @@ we are done with the credentials.json file.
 
 </details>
   
-## Create token.pickel
+## Step 2: Create token.pickel
 
 <details>
   
@@ -127,94 +119,7 @@ token.pickel will be available in the ectracted repo folder
 
 </details>  
 
-## Create config.env
-
-<details>
-  
-  <summary>Click Here</summary>
-  
-go [here](https://github.com/anasty17/mirror-leech-telegram-bot/raw/master/config_sample.env) and copy all the content.
-then goto [github gist](https://gist.github.com/)
-
-give your gist a name `config.env`
-
-![image](https://user-images.githubusercontent.com/77688759/161727093-6bac51cf-f26d-46e7-950b-f85700b71be5.png)
-
-and paste the previously copied content here
-
-![image](https://user-images.githubusercontent.com/77688759/161727191-4f5038e8-aaee-49f4-bba7-cbe849386853.png)
-
-now remove line no 2. `_____REMOVE_THIS_LINE_____=True`
-then start filling the config values
-
-for now i will only show the necessary values for the proper working of the mirror leech bot.
-
-## BOT_TOKEN:
-search @BotFather on telegram, start the bot and type `/newbot` then follow on the in screen instruction to create a new bot.
-
-![image](https://user-images.githubusercontent.com/77688759/161728194-f12dd4e5-dab2-426d-a8af-b672ac7d3f69.png)
-
-this will be your BOT_TOKEN
-
-  
-## GDRIVE_FOLDER_ID:
-search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` now send your email address, give your drive a good name for eg `hitesh920's drive` and done.
-
-![image](https://user-images.githubusercontent.com/77688759/161728959-fa766198-0e34-4d4d-bd51-f30f357d7d78.png)
-
-now click here to go to your shared drive you just created.
-now copy the root id of your shared drive
-for eg https://drive.google.com/drive/folders/xxxxxxxxxxx then the code after `folders/` will be the your root id
-
-![image](https://user-images.githubusercontent.com/77688759/161729686-d9e79a8f-4479-46ae-84dc-1989df4c75f9.png)
-
-this will be the value of GDRIVE_FOLDER_ID 
-
-  
-## OWNER_ID:
-search @MissRose_bot on telegram, start the bot then type `/id` bot will send your account's id
-use that for OWNER_ID
-
-  
-## DOWNLOAD_DIR:
-keep the default values, no need to change anything here.
-
-  
-## DOWNLOAD_STATUS_UPDATE_INTERVAL:
-keep the default values, no need to change anything here.
-
-  
-## AUTO_DELETE_MESSAGE_DURATION:
-keep the default values, no need to change anything here.
-
-  
-## IS_TEAM_DRIVE:
-set the to `True` as we are using shared drive.
-
-  
-## TELEGRAM_API & TELEGRAM_HASH:
-got [here](my.telegram.org) register with your number connected to telegram account fill with your number , choose desktop,  fill app title and short name to any name you want.
-
-![image](https://user-images.githubusercontent.com/77688759/161731080-bff37137-e53a-4774-a1bd-6288491ca494.png)
-
-this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
-
-<b>App api_id</b> will be your TELEGRAM_API and <b>App api_hash</b> TELEGRAM_HASH
-
-and we are done with the all necessary configs for the proper working of the mirror leech bot.
-it should look like this after filling all the necessary values
-  
-![image](https://user-images.githubusercontent.com/77688759/161732551-fe9424b4-d141-481c-9de3-d0cb368c1c96.png)
-
-then click on create secret gist 
-  
-![image](https://user-images.githubusercontent.com/77688759/161732712-6c3741ac-494b-496d-8fea-3ae21fc8ef3f.png)
-  
-and we are done with all the necessary configs needed.
-  
-</details>
-  
-# Hosting credentials.json & token.pickel
+## Step 3: Hosting credentials.json & token.pickel
 
 <details>
   
@@ -296,3 +201,92 @@ then open your index link click on `drive one` you will see your files u just up
 and done we successfully hosted our credentials.json and token.pickel in your index. (just dont share your index link)
 
   </details>
+
+## Step 4: Create config.env
+
+<details>
+  
+  <summary>Click Here</summary>
+  
+go [here](https://github.com/anasty17/mirror-leech-telegram-bot/raw/master/config_sample.env) and copy all the content.
+then goto [github gist](https://gist.github.com/)
+
+give your gist a name `config.env`
+
+![image](https://user-images.githubusercontent.com/77688759/161727093-6bac51cf-f26d-46e7-950b-f85700b71be5.png)
+
+and paste the previously copied content here
+
+![image](https://user-images.githubusercontent.com/77688759/161727191-4f5038e8-aaee-49f4-bba7-cbe849386853.png)
+
+now remove line no 2. `_____REMOVE_THIS_LINE_____=True`
+then start filling the config values
+
+for now i will only show the necessary values for the proper working of the mirror leech bot.
+
+### BOT_TOKEN:
+search @BotFather on telegram, start the bot and type `/newbot` then follow on the in screen instruction to create a new bot.
+
+![image](https://user-images.githubusercontent.com/77688759/161728194-f12dd4e5-dab2-426d-a8af-b672ac7d3f69.png)
+
+this will be your BOT_TOKEN
+
+  
+### GDRIVE_FOLDER_ID:
+search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` now send your email address, give your drive a good name for eg `hitesh920's drive` and done.
+
+![image](https://user-images.githubusercontent.com/77688759/161728959-fa766198-0e34-4d4d-bd51-f30f357d7d78.png)
+
+now click here to go to your shared drive you just created.
+now copy the root id of your shared drive
+for eg https://drive.google.com/drive/folders/xxxxxxxxxxx then the code after `folders/` will be the your root id
+
+![image](https://user-images.githubusercontent.com/77688759/161729686-d9e79a8f-4479-46ae-84dc-1989df4c75f9.png)
+
+this will be the value of GDRIVE_FOLDER_ID 
+
+  
+### OWNER_ID:
+search @MissRose_bot on telegram, start the bot then type `/id` bot will send your account's id
+use that for OWNER_ID
+
+  
+### DOWNLOAD_DIR:
+keep the default values, no need to change anything here.
+
+  
+### DOWNLOAD_STATUS_UPDATE_INTERVAL:
+keep the default values, no need to change anything here.
+
+  
+### AUTO_DELETE_MESSAGE_DURATION:
+keep the default values, no need to change anything here.
+
+  
+### IS_TEAM_DRIVE:
+set the to `True` as we are using shared drive.
+
+  
+### TELEGRAM_API & TELEGRAM_HASH:
+got [here](my.telegram.org) register with your number connected to telegram account fill with your number , choose desktop,  fill app title and short name to any name you want.
+
+![image](https://user-images.githubusercontent.com/77688759/161731080-bff37137-e53a-4774-a1bd-6288491ca494.png)
+
+this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
+
+<b>App api_id</b> will be your TELEGRAM_API and <b>App api_hash</b> TELEGRAM_HASH
+
+and we are done with the all necessary configs for the proper working of the mirror leech bot.
+it should look like this after filling all the necessary values
+  
+![image](https://user-images.githubusercontent.com/77688759/161732551-fe9424b4-d141-481c-9de3-d0cb368c1c96.png)
+
+then click on create secret gist 
+  
+![image](https://user-images.githubusercontent.com/77688759/161732712-6c3741ac-494b-496d-8fea-3ae21fc8ef3f.png)
+  
+and we are done with all the necessary configs needed.
+  
+</details>
+  
+
