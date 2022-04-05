@@ -94,7 +94,7 @@ k then lets start.
   
 - While installing, make sure that `add to the path` option is selected.
 
-- Onced installed, open cmd and type `python --version` to make that you have installed python correctly.
+- Once installed, open cmd and type `python --version` to make that you have installed python correctly.
   
 ![image](https://user-images.githubusercontent.com/77688759/161721207-223e78f8-d9dc-4b76-9314-0fe76d5bc109.png)
 
