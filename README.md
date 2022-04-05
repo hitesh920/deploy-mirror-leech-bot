@@ -16,7 +16,7 @@
 
 - Now first thing first, goto bot repo [Click Here](https://github.com/anasty17/mirror-leech-telegram-bot) 
 
-- And fork it the bot repo.
+- And fork the bot repo.
 
 ![image](https://user-images.githubusercontent.com/77688759/161710615-c450b852-6acc-481b-a84f-5b3d054b6b05.png)
 
