@@ -119,7 +119,7 @@ token.pickel will be available in the ectracted repo folder
 
 </details>  
 
-## Step 3: Hosting credentials.json & token.pickel
+## Step 3: Hosting token.pickel
 
 <details>
   
@@ -185,22 +185,21 @@ and paste the code u genrated for your index then click on `save and deploy`
 
 now wait for 10 seconds your index will be online.
 
-then goto your index link u just deployed
+save the link for your index
 
 ![image](https://user-images.githubusercontent.com/77688759/161738546-de13a74a-36cf-4949-b13e-74a650681f8f.png)
 
-save the index link, it will come handy later.  
-  
-now goto that folder u create for the index and upload your credentials.json and token.pickel.
+now goto that folder u create for the index and upload your token.pickel.
 
-![image](https://user-images.githubusercontent.com/77688759/161739280-c3e0f525-ea12-4d1d-80ec-03d492cc34ca.png)
+![image](https://user-images.githubusercontent.com/77688759/161742717-3864b06b-8715-4799-bf77-7267bef39725.png)
 
 then open your index link click on `drive one` you will see your files u just uploaded.
 
 ![image](https://user-images.githubusercontent.com/77688759/161739501-b250a124-5d75-45f2-8b5b-e10091cb7635.png)
-![image](https://user-images.githubusercontent.com/77688759/161739554-c9eb5141-6a24-45cf-ba17-e38ad4e8301d.png)
+![image](https://user-images.githubusercontent.com/77688759/161742804-90ebd60c-1f4f-48ff-8b99-7755a9fc2ffc.png)
 
-and done we successfully hosted our credentials.json and token.pickel in your index. (just dont share your index link)
+
+and done we successfully hosted our token.pickel in your index. (just dont share your index link)
 
   </details>
 
