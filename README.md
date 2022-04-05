@@ -215,4 +215,43 @@ and we are done with all the necessary configs needed.
 </details>
   
 # Hosting credentials.json & token.pickel
+now we need to host our token.pickel and credentials.json 
+for that we will be going to use index.
 
+we will use this [repo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index) for our hosting.
+go to [this](https://bdi-generator.hashhackers.com/) site 
+
+![image](https://user-images.githubusercontent.com/77688759/161735755-06598ea0-0683-4a46-932c-02f1047721cb.png)
+
+sign in to get the Authentication Code
+
+![image](https://user-images.githubusercontent.com/77688759/161735885-5fd3e64b-9e1b-4b0e-99d0-2b045055d13b.png)
+![image](https://user-images.githubusercontent.com/77688759/161735955-afaad737-526c-4d3d-81c8-aa3eee18dc9d.png)
+![image](https://user-images.githubusercontent.com/77688759/161736007-c3719cd2-0669-4eba-9632-573b4a4f6138.png)
+
+paste that code in `Authentication Code`
+
+![image](https://user-images.githubusercontent.com/77688759/161736264-f68a9e54-e495-4a16-aaea-351334164ff0.png)
+
+for `Site Name` you can give any for eg `personal`
+for `Share Drive ID or root` goto your drive and create a new folder (dont create this folder in shared drive you created)
+
+![image](https://user-images.githubusercontent.com/77688759/161736709-0adeca7d-f0d1-4caf-813a-a320822bdfe4.png)
+
+go inside that folder and copy the id of that folder
+
+![image](https://user-images.githubusercontent.com/77688759/161736798-f24dda46-9f26-4724-bdcf-3601a19c70ba.png)
+
+use it for `Share Drive ID or root`
+
+![image](https://user-images.githubusercontent.com/77688759/161736899-c38cfa61-e55f-423e-a747-d169f6d31eab.png)
+
+then click on submit and copy the genrated code
+
+![image](https://user-images.githubusercontent.com/77688759/161737009-ea620aef-7e44-436a-b84e-d6d5e6143daa.png)
+
+now goto [cloudflare](https://www.cloudflare.com/) and sign up for an account.
+
+then goto  `workers`
+
+![image](https://user-images.githubusercontent.com/77688759/161737351-e2324694-a145-4a14-850b-43f3e718d024.png)
