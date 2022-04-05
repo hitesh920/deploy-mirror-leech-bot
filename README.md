@@ -192,7 +192,7 @@ got [here](my.telegram.org) register with your number connected to telegram acco
 
 this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
 
-<b>api_id</b> will be your TELEGRAM_API and <b>api_hash</b> TELEGRAM_HASH
+<b>App api_id</b> will be your TELEGRAM_API and <b>App api_hash</b> TELEGRAM_HASH
 
 and we are done with the all necessary configs for the proper working of the mirror leech bot.
   
