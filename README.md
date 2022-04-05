@@ -391,7 +391,7 @@ wait for few seconds your bot will start
 
 ![image](https://user-images.githubusercontent.com/77688759/161757509-937e2389-a704-43c6-8862-f9444b525304.png)
 
-now go to the bot you created with bofather.
+now search the username of the bot u created with @BotFather and start the bot
 
 ![image](https://user-images.githubusercontent.com/77688759/161757727-e0a45cad-cf5a-4dd3-a1cc-a93adf2bf3b9.png)
 
@@ -399,6 +399,12 @@ and done, congratulations.
 
 </details>
 
+## Extra
+
+<details>
+  
+  <summary>Click Here</summary>
+  
 you can send `/stats` to check the bot status
 
 ![image](https://user-images.githubusercontent.com/77688759/161757978-45cdb43c-65c0-4852-8f9c-90e17c6c5e5b.png)
@@ -453,3 +459,5 @@ ping - Ping the Bot
 help - All cmds with description`
 
 and done! 
+  
+</details>  
