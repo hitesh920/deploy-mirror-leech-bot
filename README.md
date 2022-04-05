@@ -357,3 +357,21 @@ and we are done with the secrets.
 </details>  
 
 ## Step 5: Deploy Bot
+goto your forked repo > action 
+
+![image](https://user-images.githubusercontent.com/77688759/161756057-44ec2639-8519-47ea-ac9f-e0d78bdd7d78.png)
+![image](https://user-images.githubusercontent.com/77688759/161756181-1abf90aa-a540-4594-a7ca-6d6bbf946f19.png)
+![image](https://user-images.githubusercontent.com/77688759/161756250-8f6cbf90-bedb-4bb5-8884-ee8bb9da120a.png)
+![image](https://user-images.githubusercontent.com/77688759/161756350-05bb6617-4c36-4133-915f-ee460cc1046e.png)
+![image](https://user-images.githubusercontent.com/77688759/161756393-a5c09aaf-2e9b-4e81-a009-d11715eb1dad.png)
+
+now wait for 3-4 minutes, your workflow will start.
+
+you can check the workflow logs at
+
+![image](https://user-images.githubusercontent.com/77688759/161756625-5d687723-c6a1-4bd7-b74e-8e2f27fe6611.png)
+![image](https://user-images.githubusercontent.com/77688759/161756690-acff8feb-f84d-4424-ae67-9812dc2cc4b1.png)
+![image](https://user-images.githubusercontent.com/77688759/161756737-0d68d550-ec89-42f4-a95d-9b023d69fa82.png)
+
+
+
