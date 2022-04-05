@@ -420,11 +420,11 @@ then select your mirror bot
 
 then send
 
-`mirror - Mirror
-zipmirror - Mirror and upload as zip
-unzipmirror - Mirror and extract files
-qbmirror - Mirror torrent using qBittorrent
-qbzipmirror - Mirror torrent and upload as zip using qb
+`mirror - Mirror <br>
+zipmirror - Mirror and upload as zip <br>
+unzipmirror - Mirror and extract files <br>
+qbmirror - Mirror torrent using qBittorrent <br>
+qbzipmirror - Mirror torrent and upload as zip using qb <br>
 qbunzipmirror - Mirror torrent and extract files using qb
 leech - Leech
 zipleech - Leech and upload as zip
