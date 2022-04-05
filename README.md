@@ -20,7 +20,7 @@ Now download that repo to your pc.
 
 the downloaded repo will be in zip file, extract it.
 
-## Step 1: Create credential.json
+## Step 1: Create credentials.json
 
 <details>
   
@@ -281,11 +281,12 @@ it should look like this after filling all the necessary values
   
 ![image](https://user-images.githubusercontent.com/77688759/161732551-fe9424b4-d141-481c-9de3-d0cb368c1c96.png)
 
-then click on create secret gist 
+and we are done with all the necessary configs needed.
+then click on create secret gist to save the gist.
   
 ![image](https://user-images.githubusercontent.com/77688759/161732712-6c3741ac-494b-496d-8fea-3ae21fc8ef3f.png)
   
-and we are done with all the necessary configs needed.
+we have successfully created our config.env
   
 </details>
   
