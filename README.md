@@ -10,5 +10,5 @@
 
 ## Repo Link: [Here](https://github.com/anasty17/mirror-leech-telegram-bot)
 
-Now first thing first <b>fork the repo</b>.
+Now first thing first fork the repo.
 
