@@ -311,8 +311,10 @@ now u need to create 4 secrets here
 - HEROKU_APP_NAME
 - CONFIG_FILE_URL
 
-### HEROKU_EMAIL:
-your heroku email.
+![image](https://user-images.githubusercontent.com/77688759/161753685-a8e1da3a-8647-4f71-8221-b8d83c9977d8.png)
+![image](https://user-images.githubusercontent.com/77688759/161753909-6b6c8c59-7d8a-4920-88e4-53d212099efe.png)
+
+<b>Do the same for other three secrets.</b>
 
 ### HEROKU_API_KEY
 goto your heroku account settings [Here](https://dashboard.heroku.com/account)
@@ -331,5 +333,9 @@ then click on raw
   
 ![image](https://user-images.githubusercontent.com/77688759/161732830-d9489120-9d3c-4f74-8619-8c1fb94b8478.png)
 
-and copy the url and remove the commit id
-for eg https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env then the commit id will the the one after raw/ and before /config.env
+and copy the url then remove the commit id
+
+for eg `https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env` then the commit id will the the one after `raw/` and before `/config.env`
+
+now after removing the commit id use tha url for the CONFIG_FILE_URL
+
