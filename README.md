@@ -82,13 +82,13 @@ Ok then lets start.
 
 </details>
   
-## Step 2: Create token.pickel
+## Step 2: Create token.pickle
 
 <details>
   
   <summary>Click Here</summary>
   
-- For genrating token.pickel you will need python.
+- For genrating token.pickle you will need python.
 
 - So install python from this link [Here](https://www.python.org/downloads/).
   
@@ -133,13 +133,13 @@ Then run
 
 </details>  
 
-## Step 3: Hosting token.pickel
+## Step 3: Hosting token.pickle
 
 <details>
   
   <summary>Click Here</summary>
   
-- Now we need to host our token.pickel 
+- Now we need to host our token.pickle 
 
 - For that we will use index.
 
@@ -206,17 +206,17 @@ Then goto  `workers`
 
 - Save the link for your index.
 
-- Now goto that drive folder u create for the index and upload your token.pickel 
+- Now goto that drive folder u create for the index and upload your token.pickle 
 
 ![image](https://user-images.githubusercontent.com/77688759/161742717-3864b06b-8715-4799-bf77-7267bef39725.png)
 
-- Then open your index link click on `drive one` you will see your token.pickel u just uploaded.
+- Then open your index link click on `drive one` you will see your token.pickle u just uploaded.
 
 ![image](https://user-images.githubusercontent.com/77688759/161739501-b250a124-5d75-45f2-8b5b-e10091cb7635.png)
 ![image](https://user-images.githubusercontent.com/77688759/161742804-90ebd60c-1f4f-48ff-8b99-7755a9fc2ffc.png)
 
 
-- We successfully hosted our token.pickel in our index. (Just dont share this index link, as it has confidential files.)
+- We successfully hosted our token.pickle in our index. (Just dont share this index link, as it has confidential files.)
 
   </details>
 
@@ -302,7 +302,7 @@ Then goto  `workers`
 <b>App api_hash</b> will be your TELEGRAM_HASH
 
 ### TOKEN_PICKLE_URL:
-- Go to your index link and click on the token.pickel u just hosted in step 3 and copy the direct download link.
+- Go to your index link and click on the token.pickle u just hosted in step 3 and copy the direct download link.
   
 ![image](https://user-images.githubusercontent.com/77688759/161749786-d71ab726-51b9-49b7-9dae-b584cd3177e2.png)
 
