@@ -419,12 +419,13 @@ type `/setcommands` and send
 then select your mirror bot
 
 then send
-
-`mirror - Mirror <br>
-zipmirror - Mirror and upload as zip <br>
-unzipmirror - Mirror and extract files <br>
-qbmirror - Mirror torrent using qBittorrent <br>
-qbzipmirror - Mirror torrent and upload as zip using qb <br>
+  
+```
+mirror - Mirror
+zipmirror - Mirror and upload as zip
+unzipmirror - Mirror and extract files
+qbmirror - Mirror torrent using qBittorrent
+qbzipmirror - Mirror torrent and upload as zip using qb
 qbunzipmirror - Mirror torrent and extract files using qb
 leech - Leech
 zipleech - Leech and upload as zip
@@ -456,8 +457,9 @@ shell - Run commands in Shell
 restart - Restart the Bot
 stats - Bot Usage Stats
 ping - Ping the Bot
-help - All cmds with description`
-
+help - All cmds with description
+```
+  
 and done! 
   
 </details>  
