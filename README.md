@@ -43,4 +43,7 @@ now search for drive api and enable it.
 ![image](https://user-images.githubusercontent.com/77688759/161713346-688ebc8c-7335-4de8-8f6c-3ce75dc6a06b.png)
 
 after enabling drive api
-then goto your `api and services > oauth consent screen`
+goto your oauth sonsent screen
+![image](https://user-images.githubusercontent.com/77688759/161714067-b246af4e-d537-43cd-9604-88fc04c457a6.png)
+
+
