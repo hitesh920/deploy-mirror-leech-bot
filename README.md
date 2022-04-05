@@ -189,7 +189,7 @@ save the link for your index
 
 ![image](https://user-images.githubusercontent.com/77688759/161738546-de13a74a-36cf-4949-b13e-74a650681f8f.png)
 
-now goto that folder u create for the index and upload your token.pickel.
+now goto that drive folder u create for the index and upload your token.pickel.
 
 ![image](https://user-images.githubusercontent.com/77688759/161742717-3864b06b-8715-4799-bf77-7267bef39725.png)
 
