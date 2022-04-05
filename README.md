@@ -423,7 +423,11 @@ Then goto  `workers`
 
 </details>
 
-## F.A.Q
+
+
+
+
+# F.A.Q
   
 <b>How to set bot commands?</b>
   
