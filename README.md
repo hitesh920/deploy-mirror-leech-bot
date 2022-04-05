@@ -195,5 +195,19 @@ this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
 <b>App api_id</b> will be your TELEGRAM_API and <b>App api_hash</b> TELEGRAM_HASH
 
 and we are done with the all necessary configs for the proper working of the mirror leech bot.
+it should look like this after filling all the necessary values
   
-</details>  
+![image](https://user-images.githubusercontent.com/77688759/161732551-fe9424b4-d141-481c-9de3-d0cb368c1c96.png)
+
+then click on create secret gist 
+  
+![image](https://user-images.githubusercontent.com/77688759/161732712-6c3741ac-494b-496d-8fea-3ae21fc8ef3f.png)
+  
+then click on raw
+  
+![image](https://user-images.githubusercontent.com/77688759/161732830-d9489120-9d3c-4f74-8619-8c1fb94b8478.png)
+
+and copy the url and remove the commit id
+for eg https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env then the commit id will the the one after `raw/` and before `/config.env`  
+  
+  
