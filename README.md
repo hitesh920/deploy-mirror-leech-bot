@@ -164,7 +164,7 @@ search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` 
 
 now click here to go to your shared drive you just created.
 now copy the root id of your shared drive
-for eg https://drive.google.com/drive/folders/xxxxxxxxxxx then the code after `folder/` will be the your root id
+for eg https://drive.google.com/drive/folders/xxxxxxxxxxx then the code after `folders/` will be the your root id
 
 ![image](https://user-images.githubusercontent.com/77688759/161729686-d9e79a8f-4479-46ae-84dc-1989df4c75f9.png)
 
