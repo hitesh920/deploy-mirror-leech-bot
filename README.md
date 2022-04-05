@@ -116,7 +116,7 @@ Then run
 
 `python generate_drive_token.py`
 
-- One browser window will open the follow the on screen prompt
+- One browser window will open, just follow the on screen prompt
   
 ![image](https://user-images.githubusercontent.com/77688759/161724909-723eac9b-3caa-46bf-803c-4dd0c42b3642.png)
 ![image](https://user-images.githubusercontent.com/77688759/161724965-ba3068e6-720e-4331-9b71-a890cb8e8731.png)
