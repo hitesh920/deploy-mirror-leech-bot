@@ -90,9 +90,7 @@ Ok then lets start.
   
 - For genrating token.pickle you will need python.
 
-- So install python from this link [Here](https://www.python.org/downloads/).
-  
-- While installing, make sure that `add to the path` option is selected.
+- So install python from this link [Here](https://www.python.org/downloads/). (While installing, make sure that `add to the path` option is selected.)
 
 - Once installed, open cmd and type `python --version` to make that you have installed python correctly.
   
