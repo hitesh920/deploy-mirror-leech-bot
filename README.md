@@ -423,11 +423,7 @@ Then goto  `workers`
 
 </details>
 
-## Extra
-
-<details>
-  
-  <summary>Click Here</summary>
+## F.A.Q
   
 <b>How to set bot commands?</b>
   
@@ -495,5 +491,4 @@ help - All cmds with description
 <b>How to update config var?</b>
 - Just goto your config.env gist edit whatever you want to edit then do `/restart` in your bot.
   
-  
-</details>  
+ 
