@@ -145,10 +145,17 @@ then start filling the config values
 
 for now i will only show the necessary values for the proper working of the mirror leech bot.
 
-## BOT_TOKEN: 
-search @BotFather on telegram, type `/newbot` then follow on the in screen instruction to create a new bot.
+## BOT_TOKEN
+search @BotFather on telegram, start the bot and type `/newbot` then follow on the in screen instruction to create a new bot.
 
 ![image](https://user-images.githubusercontent.com/77688759/161728194-f12dd4e5-dab2-426d-a8af-b672ac7d3f69.png)
 
 this will be your BOT_TOKEN
+
+## GDRIVE_FOLDER_ID
+search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` now send your email address, give your drive a good name for eg `hitesh920's drive` and done.
+
+![image](https://user-images.githubusercontent.com/77688759/161728959-fa766198-0e34-4d4d-bd51-f30f357d7d78.png)
+
+now click here to go to your shared drive you just created.
 
