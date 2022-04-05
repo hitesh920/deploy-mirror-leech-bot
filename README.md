@@ -305,7 +305,7 @@ goto your forked repo > settings > secrets > action
 ![image](https://user-images.githubusercontent.com/77688759/161750596-e539db44-2a42-4ac9-bc0d-b593777f84ee.png)
 ![image](https://user-images.githubusercontent.com/77688759/161753272-ddad44c9-2c98-40d0-b06a-67027ab222dd.png)
 
-now u need to create 4 secrets here
+now here under secrets, you need to create 4 secrets 
 - HEROKU_EMAIL
 - HEROKU_API_KEY
 - HEROKU_APP_NAME
