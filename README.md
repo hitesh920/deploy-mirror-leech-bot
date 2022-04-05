@@ -373,5 +373,21 @@ you can check the workflow logs at
 ![image](https://user-images.githubusercontent.com/77688759/161756690-acff8feb-f84d-4424-ae67-9812dc2cc4b1.png)
 ![image](https://user-images.githubusercontent.com/77688759/161756737-0d68d550-ec89-42f4-a95d-9b023d69fa82.png)
 
+once deployment done
 
+![image](https://user-images.githubusercontent.com/77688759/161757135-f49d1799-a564-4688-a5e8-3adf879691e3.png)
 
+goto your heroku account, click on the app you just created and click on view logs.
+
+![image](https://user-images.githubusercontent.com/77688759/161757321-d591434d-a54d-47c9-9270-c40ac314e075.png)
+![image](https://user-images.githubusercontent.com/77688759/161757417-e7205bb8-8bf2-43f2-a392-5affed3e2c8c.png)
+
+wait for few seconds your bot will start
+
+![image](https://user-images.githubusercontent.com/77688759/161757509-937e2389-a704-43c6-8862-f9444b525304.png)
+
+now go to the bot you created with bofather.
+
+![image](https://user-images.githubusercontent.com/77688759/161757727-e0a45cad-cf5a-4dd3-a1cc-a93adf2bf3b9.png)
+
+and done, congratulations.
