@@ -82,3 +82,42 @@ we are done with the credentials.json file.
 
 </details>
   
+## Create token.pickel
+
+<details>
+  
+  <summary>CLICK HERE</summary>
+  
+for genrating token.pickel you will need python
+so install python from this link [Here](https://www.python.org/downloads/)
+while installing, make sure thagt `add to the path` option is selected.
+onced installed, open cmd and type `python --version` to make that you have installed python correctly.
+![image](https://user-images.githubusercontent.com/77688759/161721207-223e78f8-d9dc-4b76-9314-0fe76d5bc109.png)
+
+ok, now goto your extracted folder click on the address bar and type cmd then hit enter.
+![image](https://user-images.githubusercontent.com/77688759/161721454-52142434-4f3e-44b5-a3f5-7f0fd9b4f03f.png)
+![image](https://user-images.githubusercontent.com/77688759/161721551-cf5d24b4-b518-4245-997b-a5b72409ed1e.png)
+![image](https://user-images.githubusercontent.com/77688759/161721614-1a1af809-229c-49df-9f85-64f33debd543.png)
+
+there you go.
+now give command
+`pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib`
+
+now make sure to set a default browser, in my case chrome is the default.
+
+then run
+`python generate_drive_token.py`
+
+one browser window will open the follow the on screen prompt
+![image](https://user-images.githubusercontent.com/77688759/161724909-723eac9b-3caa-46bf-803c-4dd0c42b3642.png)
+![image](https://user-images.githubusercontent.com/77688759/161724965-ba3068e6-720e-4331-9b71-a890cb8e8731.png)
+![image](https://user-images.githubusercontent.com/77688759/161725004-91f84911-ea58-426e-a0d4-ea28db5dc54b.png)
+![image](https://user-images.githubusercontent.com/77688759/161725045-d16bcb9c-1f4b-49e0-a18e-af7e6dc66103.png)
+
+now after you reach this screen 
+![image](https://user-images.githubusercontent.com/77688759/161725108-78da920f-70f8-4f46-9cb7-b2015651cfcf.png)
+
+token.pickel will be available in the ectracted repo folder
+![image](https://user-images.githubusercontent.com/77688759/161725413-bfd6dc6f-2d0c-4668-98ba-525d73467c65.png)
+
+</details>  
