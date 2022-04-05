@@ -277,7 +277,14 @@ this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
 
 <b>App api_id</b> will be your TELEGRAM_API and <b>App api_hash</b> TELEGRAM_HASH
 
-and we are done with the all necessary configs for the proper working of the mirror leech bot.
+### TOKEN_PICKLE_URL:
+go to your index link and click on the token.pickel u just hosted in step 3 and copy the direct download link.
+  
+![image](https://user-images.githubusercontent.com/77688759/161749786-d71ab726-51b9-49b7-9dae-b584cd3177e2.png)
+
+and use the url for TOKEN_PICKLE_URL
+
+we are done with the all necessary configs for the proper working of the mirror leech bot.
 it should look like this after filling all the necessary values
   
 ![image](https://user-images.githubusercontent.com/77688759/161732551-fe9424b4-d141-481c-9de3-d0cb368c1c96.png)
