@@ -210,5 +210,9 @@ then click on create secret gist
   
 ![image](https://user-images.githubusercontent.com/77688759/161732712-6c3741ac-494b-496d-8fea-3ae21fc8ef3f.png)
   
+and we are done with all the necessary configs needed.
+  
 </details>
   
+# Hosting credentials.json & token.pickel
+
