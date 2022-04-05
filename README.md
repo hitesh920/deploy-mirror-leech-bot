@@ -405,14 +405,8 @@ and done, congratulations.
   
   <summary>Click Here</summary>
   
-you can send `/stats` to check the bot status
-
-![image](https://user-images.githubusercontent.com/77688759/161757978-45cdb43c-65c0-4852-8f9c-90e17c6c5e5b.png)
-
-more commands can be found in the repo readme file.
-
-to commands for your bot
-
+### Setting Up Bot Commands
+  
 <details>
   
   <summary>Click Here</summary>
