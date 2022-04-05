@@ -86,7 +86,7 @@ we are done with the credentials.json file.
 
 <details>
   
-  <summary>CLICK HERE</summary>
+  <summary>Click Here</summary>
   
 for genrating token.pickel you will need python
 so install python from this link [Here](https://www.python.org/downloads/)
@@ -126,3 +126,19 @@ token.pickel will be available in the ectracted repo folder
 ![image](https://user-images.githubusercontent.com/77688759/161725413-bfd6dc6f-2d0c-4668-98ba-525d73467c65.png)
 
 </details>  
+
+## Create config.env
+
+go [here](https://github.com/anasty17/mirror-leech-telegram-bot/raw/master/config_sample.env) and copy all the content.
+then goto [github gist](https://gist.github.com/)
+
+give your gist a name `config.env`
+
+![image](https://user-images.githubusercontent.com/77688759/161727093-6bac51cf-f26d-46e7-950b-f85700b71be5.png)
+
+and paste the previously copied content here
+
+![image](https://user-images.githubusercontent.com/77688759/161727191-4f5038e8-aaee-49f4-bba7-cbe849386853.png)
+
+now remove line no 2. ``_____REMOVE_THIS_LINE_____=True``
+
