@@ -31,8 +31,8 @@ will create those one by one
 ## Create credential.json
 
 <details>
-  <summary><b>Click here for more details</b></summary>
-goto your google cloud console. [`Here`](https://console.cloud.google.com)
+  
+goto your google cloud console. [Here](https://console.cloud.google.com)
 create a new project (if you already have a project then no need to create another one)
 
 ![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)
