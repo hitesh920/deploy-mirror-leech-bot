@@ -14,15 +14,15 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 k then lets start.
 
-Now first thing first, fork the repo.
+- Now first thing first, fork the repo.
 
 ![image](https://user-images.githubusercontent.com/77688759/161710615-c450b852-6acc-481b-a84f-5b3d054b6b05.png)
 
-Now download that repo to your pc.
+- Now download that repo to your pc.
 
 ![image](https://user-images.githubusercontent.com/77688759/161710894-b2840ddf-c186-4a9f-bcb0-e301ffd2d253.png)
 
-The downloaded repo will be in zip file, extract it.
+- The downloaded repo will be in zip file, extract it.
 
 ## Step 1: Create credentials.json
 
@@ -30,9 +30,9 @@ The downloaded repo will be in zip file, extract it.
   
   <summary>Click Here</summary>
   
-Goto your google cloud console. [Here](https://console.cloud.google.com)
+- Goto your google cloud console. [Here](https://console.cloud.google.com)
 
-Create a new project (if you already have a project then no need to create another one)
+- Create a new project (if you already have a project then no need to create another one)
 
 ![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)
 ![image](https://user-images.githubusercontent.com/77688759/161712650-1f2b0f7b-0a74-4527-a699-3e09feea2d3a.png)
