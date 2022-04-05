@@ -29,10 +29,6 @@ Now there are 3 files needed for the working of mirror leech bot.
 will create those one by one
 
 ## Create credential.json
-
-<details>
-  
-  <summary><b>Click here for more details</b></summary>
   
 goto your google cloud console. [Here](https://console.cloud.google.com)
 create a new project (if you already have a project then no need to create another one)
@@ -74,5 +70,5 @@ and done now download your .json file
 ![image](https://user-images.githubusercontent.com/77688759/161715944-34b24641-a2b9-4236-8f97-b1a292e5e3e5.png)
 
 after download rename it to `credentials.json`
-
-</details>
+Now move that credentials.json file to the extracted repo folder
+  
