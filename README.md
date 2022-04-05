@@ -182,10 +182,11 @@ keep the default values, no need to change anything here.
 set the to `True` as we are using shared drive.
 
 ## TELEGRAM_API & TELEGRAM_HASH
-goto my.telegram.org register with your number connected to telegram account fill with your number , choose desktop,  fill app title and short name to any name you want.
+got [here](my.telegram.org) register with your number connected to telegram account fill with your number , choose desktop,  fill app title and short name to any name you want.
 
 ![image](https://user-images.githubusercontent.com/77688759/161731080-bff37137-e53a-4774-a1bd-6288491ca494.png)
 
 this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
- App api_id will be your TELEGRAM_API
- App api_hash TELEGRAM_HASH
+
+api_id will be your TELEGRAM_API
+api_hash TELEGRAM_HASH
