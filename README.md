@@ -355,3 +355,5 @@ once all the four secrets have been added, it should look like this
 and we are done with the secrets.
   
 </details>  
+
+## Step 5: Deploy Bot
