@@ -202,7 +202,7 @@ Then goto  `workers`
   
 ![image](https://user-images.githubusercontent.com/77688759/161738546-de13a74a-36cf-4949-b13e-74a650681f8f.png)  
 
-- Save the link for your index.
+- Save the link for your index, will come handy later.
 
 - Now goto that drive folder u create for the index and upload your token.pickle 
 
