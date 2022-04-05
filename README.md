@@ -127,7 +127,7 @@ Then run
   
 ![image](https://user-images.githubusercontent.com/77688759/161725108-78da920f-70f8-4f46-9cb7-b2015651cfcf.png)
 
-- token.pickel will be available in the ectracted repo folder
+- token.pickel will be available in the extracted repo folder
   
 ![image](https://user-images.githubusercontent.com/77688759/161725413-bfd6dc6f-2d0c-4668-98ba-525d73467c65.png)
 
