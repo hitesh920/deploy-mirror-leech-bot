@@ -335,7 +335,11 @@ then click on raw
 
 and copy the url then remove the commit id
 
-for eg `https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env` then the commit id will the the one after `raw/` and before `/config.env`
+for eg 
 
-now after removing the commit id use tha url for the CONFIG_FILE_URL
+before `https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env` then the commit id will the the one after `raw/` and before `/config.env`
+
+after `https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/config.env`
+
+now after removing the commit id use that url for the CONFIG_FILE_URL
 
