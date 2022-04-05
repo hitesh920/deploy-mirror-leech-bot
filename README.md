@@ -505,7 +505,7 @@ help - All cmds with description
 - Just do `/restart`
   
 <b>How to update config var?</b>
-- Just goto your config.env gist edit whatever you want to edit then do `/restart` in your bot.
+- Just goto your gist of config.env, edit whatever you want to edit and save it then do `/restart` in your bot.
 
 <b>I am facing xyz issue, what to do?</b>
 - Join [@mirrorsociety](https://t.me/mirrorsociety) and tag [@hitesh920](https://t.me/hitesh920), i will help you in my free time.
