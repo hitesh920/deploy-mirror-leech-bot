@@ -300,6 +300,10 @@ we have successfully created our config.env
   
 ## Step 5: Setting Up Secrets For Github Action
 
+<details>
+  
+  <summary>Click Here</summary>
+  
 goto your forked repo > settings > secrets > action
 
 ![image](https://user-images.githubusercontent.com/77688759/161750596-e539db44-2a42-4ac9-bc0d-b593777f84ee.png)
@@ -349,3 +353,5 @@ once all the four secrets have been added, it should look like this
 ![image](https://user-images.githubusercontent.com/77688759/161755355-afcda2b7-3fb1-4e52-8876-162932213e40.png)
 
 and we are done with the secrets.
+  
+</details>  
