@@ -92,7 +92,7 @@ k then lets start.
 
 - So install python from this link [Here](https://www.python.org/downloads/)
   
-- While installing, make sure thagt `add to the path` option is selected.
+- While installing, make sure that `add to the path` option is selected.
 
 - Onced installed, open cmd and type `python --version` to make that you have installed python correctly.
   
