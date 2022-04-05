@@ -295,6 +295,10 @@ Then goto  `workers`
 
 ![image](https://user-images.githubusercontent.com/77688759/161731080-bff37137-e53a-4774-a1bd-6288491ca494.png)
 
+Then goto https://my.telegram.org/apps 
+  
+![image](https://user-images.githubusercontent.com/77688759/161785532-bef462f6-1416-42ab-b0c7-48c2d6001baa.png)
+  
 - This will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
 
 <b>App api_id</b> will be your TELEGRAM_API 
