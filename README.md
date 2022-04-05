@@ -255,7 +255,7 @@ Then goto  `workers`
 ### GDRIVE_FOLDER_ID:
 - Search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` now send your email address, give your drive a good name for eg `hitesh920's drive` and done.
 
-- Now click here to go to your shared drive you just created or you can goto your `drive` > `shared drive` > `the shared drive you created`.
+- Now click shared drive you just created by `your drive` > `shared drive` > `the shared drive you created`.
 
 ![image](https://user-images.githubusercontent.com/77688759/161728959-fa766198-0e34-4d4d-bd51-f30f357d7d78.png)
   
