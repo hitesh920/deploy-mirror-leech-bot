@@ -215,6 +215,11 @@ and we are done with all the necessary configs needed.
 </details>
   
 # Hosting credentials.json & token.pickel
+
+<details>
+  
+  <summary>Click Here</summary>
+  
 now we need to host our token.pickel and credentials.json 
 for that we will be going to use index.
 
@@ -234,7 +239,7 @@ paste that code in `Authentication Code`
 ![image](https://user-images.githubusercontent.com/77688759/161736264-f68a9e54-e495-4a16-aaea-351334164ff0.png)
 
 for `Site Name` you can give any for eg `personal`
-for `Share Drive ID or root` goto your drive and create a new folder (dont create this folder in shared drive you created)
+for `Share Drive ID or root` goto your drive and create a new folder for your index (dont create this folder in shared drive you created previously)
 
 ![image](https://user-images.githubusercontent.com/77688759/161736709-0adeca7d-f0d1-4caf-813a-a320822bdfe4.png)
 
@@ -275,7 +280,19 @@ and paste the code u genrated for your index then click on `save and deploy`
 
 now wait for 10 seconds your index will be online.
 
-you can click here or save the link for your index
+save the link for your index
 
 ![image](https://user-images.githubusercontent.com/77688759/161738546-de13a74a-36cf-4949-b13e-74a650681f8f.png)
 
+now goto that folder u create for the index and upload your credentials.json and token.pickel.
+
+![image](https://user-images.githubusercontent.com/77688759/161739280-c3e0f525-ea12-4d1d-80ec-03d492cc34ca.png)
+
+then open your index link click on `drive one` you will see your files u just uploaded.
+
+![image](https://user-images.githubusercontent.com/77688759/161739501-b250a124-5d75-45f2-8b5b-e10091cb7635.png)
+![image](https://user-images.githubusercontent.com/77688759/161739554-c9eb5141-6a24-45cf-ba17-e38ad4e8301d.png)
+
+and done we successfully hosted our credentials.json and token.pickel in your index. (just dont share your index link)
+
+  </details>
