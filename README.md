@@ -50,8 +50,9 @@ k then lets start.
 
 - After enabling drive api, goto your oauth consent screen `cloud console home screen` > `hamburger menu on the left` > `api and services` > `oauth consen screen`
 
+![image](https://user-images.githubusercontent.com/77688759/161765925-c5a9efd6-f24a-4d7f-b335-7e798ddffffe.png)
+
 ![image](https://user-images.githubusercontent.com/77688759/161714067-b246af4e-d537-43cd-9604-88fc04c457a6.png)
-![image](https://user-images.githubusercontent.com/77688759/161714348-7329c817-a7b3-40b3-b8b1-a51df465aae7.png)
 ![image](https://user-images.githubusercontent.com/77688759/161714421-3f64cc16-b1e3-4078-abdb-0f58e4a81113.png)
 ![image](https://user-images.githubusercontent.com/77688759/161714503-5d7cd60b-2a29-4b19-83c1-e409ebf22639.png)
 ![image](https://user-images.githubusercontent.com/77688759/161714557-6e35f134-fd76-4f3b-a22f-84df9b201c5f.png)
