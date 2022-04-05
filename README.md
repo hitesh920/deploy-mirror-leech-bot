@@ -494,5 +494,14 @@ help - All cmds with description
   
 <b>How to update config var?</b>
 - Just goto your config.env gist edit whatever you want to edit then do `/restart` in your bot.
+
+<b>I am facing xyz issue, what to do?</b>
+- Join @mirrorsociety and tag @hitesh920, i will help you once i got free time.
   
+<b>Where i can find the info abt all the optional configs?</b>
+- Read the README.md file of the mirror leech bot repo to know more abt all the optional configs.
+  
+ ## Credits
  
+ - [Anasty](https://github.com/anasty17) for the mirror leech bot repo.
+ - [ParveenBhadooOfficial](https://gitlab.com/ParveenBhadooOfficial) for the google drive index.
