@@ -140,5 +140,15 @@ and paste the previously copied content here
 
 ![image](https://user-images.githubusercontent.com/77688759/161727191-4f5038e8-aaee-49f4-bba7-cbe849386853.png)
 
-now remove line no 2. ``_____REMOVE_THIS_LINE_____=True``
+now remove line no 2. `_____REMOVE_THIS_LINE_____=True`
+then start filling the config values
+
+for now i will only show the necessary values for the proper working of the mirror leech bot.
+
+## BOT_TOKEN: 
+search @BotFather on telegram, type `/newbot` then follow on the in screen instruction to create a new bot.
+
+![image](https://user-images.githubusercontent.com/77688759/161728194-f12dd4e5-dab2-426d-a8af-b672ac7d3f69.png)
+
+this will be your BOT_TOKEN
 
