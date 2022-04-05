@@ -24,5 +24,14 @@ Now there are 3 files needed for the working of mirror leech bot.
 - credentials.json
 - token.pickel
 - config.env
+will create those one by one
 
 ## Create credential.json
+
+goto your google cloud console. [Here](https://console.cloud.google.com/)
+create a new project (if you already have a project then no need to create another one)
+![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)
+![image](https://user-images.githubusercontent.com/77688759/161712650-1f2b0f7b-0a74-4527-a699-3e09feea2d3a.png)
+
+now search drive api and enable it.
+then goto 
