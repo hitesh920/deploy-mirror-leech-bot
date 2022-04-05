@@ -90,11 +90,11 @@ k then lets start.
   
 - For genrating token.pickel you will need python
 
-- so install python from this link [Here](https://www.python.org/downloads/)
+- So install python from this link [Here](https://www.python.org/downloads/)
   
-- while installing, make sure thagt `add to the path` option is selected.
+- While installing, make sure thagt `add to the path` option is selected.
 
-- onced installed, open cmd and type `python --version` to make that you have installed python correctly.
+- Onced installed, open cmd and type `python --version` to make that you have installed python correctly.
   
 ![image](https://user-images.githubusercontent.com/77688759/161721207-223e78f8-d9dc-4b76-9314-0fe76d5bc109.png)
 
