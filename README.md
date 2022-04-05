@@ -18,7 +18,7 @@ Ok then lets start.
 
 ![image](https://user-images.githubusercontent.com/77688759/161710615-c450b852-6acc-481b-a84f-5b3d054b6b05.png)
 
-- Now download that repo in your pc.
+- Now download that repo.
 
 ![image](https://user-images.githubusercontent.com/77688759/161710894-b2840ddf-c186-4a9f-bcb0-e301ffd2d253.png)
 
