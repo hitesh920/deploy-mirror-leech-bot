@@ -413,6 +413,10 @@ more commands can be found in the repo readme file.
 
 to commands for your bot
 
+<details>
+  
+  <summary>Click Here</summary>
+  
 goto botfather.
 type `/setcommands` and send
 
@@ -463,5 +467,7 @@ help - All cmds with description
 ![image](https://user-images.githubusercontent.com/77688759/161760819-8baf782d-2da1-4aa3-b62a-70d4e30004a8.png)
   
 and done! 
+  
+</details>
   
 </details>  
