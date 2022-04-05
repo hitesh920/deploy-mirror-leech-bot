@@ -356,7 +356,7 @@ Then goto https://my.telegram.org/apps
 ![image](https://user-images.githubusercontent.com/77688759/161752797-4a3c4798-352e-4c33-af23-ac0b5b9af3bf.png)
 
 ### HEROKU_APP_NAME:
-- Name you would like to give to your heroku apps (must be unique)
+- Name you would like to give to your heroku app (must be unique)
 
 ### CONFIG_FILE_URL:
 - Goto that gist you created for the config.env
