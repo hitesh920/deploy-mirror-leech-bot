@@ -159,8 +159,33 @@ search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` 
 
 now click here to go to your shared drive you just created.
 now copy the root id of your shared drive
+for eg https://drive.google.com/drive/folders/xxxxxxxxxxx then the code after `folder/` will be the your root id
 
 ![image](https://user-images.githubusercontent.com/77688759/161729686-d9e79a8f-4479-46ae-84dc-1989df4c75f9.png)
 
-that will be the value of GDRIVE_FOLDER_ID 
+this will be the value of GDRIVE_FOLDER_ID 
 
+## OWNER_ID
+search @MissRose_bot on telegram, start the bot then type `/id` bot will send your account's id
+use that for OWNER_ID
+
+## DOWNLOAD_DIR
+keep the default values, no need to change anything here.
+
+## DOWNLOAD_STATUS_UPDATE_INTERVAL
+keep the default values, no need to change anything here.
+
+## AUTO_DELETE_MESSAGE_DURATION
+keep the default values, no need to change anything here.
+
+## IS_TEAM_DRIVE
+set the to `True` as we are using shared drive.
+
+## TELEGRAM_API & TELEGRAM_HASH
+goto my.telegram.org register with your number connected to telegram account fill with your number , choose desktop,  fill app title and short name to any name you want.
+
+![image](https://user-images.githubusercontent.com/77688759/161731080-bff37137-e53a-4774-a1bd-6288491ca494.png)
+
+this will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
+ App api_id will be your TELEGRAM_API
+ App api_hash TELEGRAM_HASH
