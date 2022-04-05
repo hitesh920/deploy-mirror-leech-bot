@@ -344,3 +344,8 @@ for eg `https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaa
 
 now after removing the commit id use that url for the CONFIG_FILE_URL
 
+once all the four secrets have been added, it should look like this
+
+![image](https://user-images.githubusercontent.com/77688759/161755355-afcda2b7-3fb1-4e52-8876-162932213e40.png)
+
+and we are done with the secrets.
