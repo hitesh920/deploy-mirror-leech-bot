@@ -74,8 +74,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 ![image](https://user-images.githubusercontent.com/77688759/161715944-34b24641-a2b9-4236-8f97-b1a292e5e3e5.png)
 
-- After download rename it to `credentials.json`
-- Make sure you have enabled "file name extensions" because most users basically rename credentials.json to credentials.json.json without knowing.
+- After download rename it to `credentials.json`, make sure you have enabled "file name extensions" because most users basically rename credentials.json to credentials.json.json without knowing.
   
 ![image](https://user-images.githubusercontent.com/77688759/161918765-1f570e63-3492-4d97-a5f9-720f0915b8a8.png)
   
