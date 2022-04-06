@@ -410,6 +410,7 @@ We will use github action to deploy bot.
 </details>
 
 <br>
+
 <b>Note</b>:
 I will recommend go through the README.md file of the bot repo to know about all the optional config vars, bot commands and all.
 - README.md of master branch [Click Here](https://github.com/anasty17/mirror-leech-telegram-bot/blob/master/README.md)
