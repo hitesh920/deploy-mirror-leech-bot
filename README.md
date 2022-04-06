@@ -31,8 +31,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   
   <summary>Click Here</summary>
   
-- Goto your google cloud console. [Here](https://console.cloud.google.com)
-
+- Goto your google cloud console. [Click Here](https://console.cloud.google.com)
 - Create a new project (if you already have a project then no need to create another one)
 
 ![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)
@@ -79,11 +78,11 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 ![image](https://user-images.githubusercontent.com/77688759/161720299-4ee43d15-f136-41e0-b5f7-2bb822429999.png)
 
-- We are done with the credentials.json file.
+- We have sucessfully created our credentials.json file.
 
 </details>
   
-## Step 2: Create token.pickle
+### Step 2: Create token.pickle
 
 <details>
   
@@ -91,13 +90,13 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   
 - For genrating token.pickle you will need python.
 
-- So install python from this link [Here](https://www.python.org/downloads/). (While installing, make sure that `add to the path` option is selected.)
+- So install python from this link [Click Here](https://www.python.org/downloads/). (while installing, make sure that `add to the path` option is selected.)
 
-- Once installed, open cmd and type `python --version` to make that you have installed python correctly.
+- Once installed, open cmd and run `python --version` to make that you have installed python correctly.
   
 ![image](https://user-images.githubusercontent.com/77688759/161721207-223e78f8-d9dc-4b76-9314-0fe76d5bc109.png)
 
-- Ok, now goto your extracted folder click on the address bar and type cmd then hit enter.
+- Ok, now goto your extracted repo folder click on the address bar and type cmd then hit enter.
   
 ![image](https://user-images.githubusercontent.com/77688759/161721454-52142434-4f3e-44b5-a3f5-7f0fd9b4f03f.png)
 ![image](https://user-images.githubusercontent.com/77688759/161721551-cf5d24b4-b518-4245-997b-a5b72409ed1e.png)
@@ -109,7 +108,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 `pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib`
 
-- Now make sure to set a default browser, in my case chrome is the default.
+- Now for the next command make sure to set a default browser, in my case chrome is the default.
 
 Then run
 
@@ -126,13 +125,13 @@ Then run
   
 ![image](https://user-images.githubusercontent.com/77688759/161725108-78da920f-70f8-4f46-9cb7-b2015651cfcf.png)
 
-- token.pickel will be available in the extracted repo folder.
+- token.pickle will be available in the extracted repo folder.
   
 ![image](https://user-images.githubusercontent.com/77688759/161725413-bfd6dc6f-2d0c-4668-98ba-525d73467c65.png)
 
 </details>  
 
-## Step 3: Hosting token.pickle
+### Step 3: Hosting token.pickle
 
 <details>
   
@@ -140,16 +139,14 @@ Then run
   
 - Now we need to host our token.pickle 
 
-- For that we will use index.
+- For that we will use google drive index.
 
-- We will use this [repo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index) for our index.
+- This is the [repo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index) we will be using for our google drive index.
 
 - Go to [this](https://bdi-generator.hashhackers.com/) link.
-
-![image](https://user-images.githubusercontent.com/77688759/161735755-06598ea0-0683-4a46-932c-02f1047721cb.png)
-
 - Sign in to get the Authentication Code.
-
+  
+![image](https://user-images.githubusercontent.com/77688759/161735755-06598ea0-0683-4a46-932c-02f1047721cb.png)
 ![image](https://user-images.githubusercontent.com/77688759/161735885-5fd3e64b-9e1b-4b0e-99d0-2b045055d13b.png)
 ![image](https://user-images.githubusercontent.com/77688759/161735955-afaad737-526c-4d3d-81c8-aa3eee18dc9d.png)
 ![image](https://user-images.githubusercontent.com/77688759/161736007-c3719cd2-0669-4eba-9632-573b4a4f6138.png)
