@@ -298,8 +298,10 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 <b>BASE_URL_OF_BOT</b>:
 - https://yourappname.herokuapp.com, suppose if your heroku app name will be `hitesh920-mirrorbot` then the BASE_URL_OF_BOT will be `https://yourappname.hitesh920-mirrorbot.com`
 
-- We are done with the all necessary configs for the proper working of your mirror leech bot.
-- It should look like this after filling all the necessary values
+
+We are done with the all necessary configs for the proper working of your mirror leech bot.
+
+It should look like this after filling all the necessary values
   
 ![image](https://user-images.githubusercontent.com/77688759/161732551-fe9424b4-d141-481c-9de3-d0cb368c1c96.png)
 
