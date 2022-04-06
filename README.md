@@ -412,7 +412,13 @@ We will use github action to deploy bot.
 
 # F.A.Q
 
-<b>Error while deploying?
+<details>
+
+  <summary>Click Here</summary>
+  
+<br>
+  
+<b>1.)</b> Error while deploying?
   
 - If you get eror like name already taken
   
@@ -420,18 +426,17 @@ We will use github action to deploy bot.
   
 then it means the name you used for `HEROKU_APP_NAME` is already taken <b>duhh?</b>. so go to the repo secrets again find that `HEROKU_APP_NAME` secret click on update and choose a diffrent name (i already said name must be unique) and start the workflow again.  
   
-<b>How to set bot commands?</b>
+<b>2.)</b> How to set bot commands?
   
 <details>
     
   <summary>Click Here</summary>
   
+<br>  
+  
 - Goto botfather.
-
-type `/setcommands` and send
-
+- type `/setcommands` and send
 - Then select your mirror bot
-
 - Then send
   
 ```
@@ -480,16 +485,16 @@ help - All cmds with description
     
 </details>
   
-<b>How to update bot?</b>
+<b>3.)</b> How to update bot?
 - Just do `/restart`
   
-<b>How to update config var?</b>
+<b>4.)</b> How to update config var?
 - Just goto your gist of config.env, edit whatever you want to edit and save it then do `/restart` in your bot.
 
-<b>I am facing xyz issue, what to do?</b>
+<b>5.)</b> I am facing xyz issue, what to do?
 - Join [@mirrorsociety](https://t.me/mirrorsociety) and tag [@hitesh920](https://t.me/hitesh920), i will help you in my free time.
   
-<b>Where i can find the info abt all the optional configs?</b>
+<b>6.)</b> Where i can find the info abt all the optional configs?
 - Read the README.md file of the mirror leech bot repo to know more abt all the optional configs.
   
  ## Credits
