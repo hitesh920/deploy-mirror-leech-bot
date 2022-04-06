@@ -36,19 +36,19 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 - Goto your google cloud console. [Click Here](https://console.cloud.google.com)
 - Create a new project (if you already have a project then no need to create another one)
 
-![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)
-![image](https://user-images.githubusercontent.com/77688759/161712650-1f2b0f7b-0a74-4527-a699-3e09feea2d3a.png)
+![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)<br>
+![image](https://user-images.githubusercontent.com/77688759/161712650-1f2b0f7b-0a74-4527-a699-3e09feea2d3a.png)<br>
 
 - Now select the project you just create.
 
-![image](https://user-images.githubusercontent.com/77688759/161712843-6c725354-c795-45d2-a008-6399d30df46b.png)
-![image](https://user-images.githubusercontent.com/77688759/161712899-18bfe7d8-1454-483e-8d09-73bb2959b47e.png)
+![image](https://user-images.githubusercontent.com/77688759/161712843-6c725354-c795-45d2-a008-6399d30df46b.png)<br>
+![image](https://user-images.githubusercontent.com/77688759/161712899-18bfe7d8-1454-483e-8d09-73bb2959b47e.png)<br>
 
 - Now search for drive api and enable it.
 
-![image](https://user-images.githubusercontent.com/77688759/161713016-ebf934d5-e0a4-45b2-80f1-229f655feddb.png)
-![image](https://user-images.githubusercontent.com/77688759/161713088-518e509c-340a-4786-9bd2-2d079e461f31.png)
-![image](https://user-images.githubusercontent.com/77688759/161713346-688ebc8c-7335-4de8-8f6c-3ce75dc6a06b.png)
+![image](https://user-images.githubusercontent.com/77688759/161713016-ebf934d5-e0a4-45b2-80f1-229f655feddb.png)<br>
+![image](https://user-images.githubusercontent.com/77688759/161713088-518e509c-340a-4786-9bd2-2d079e461f31.png)<br>
+![image](https://user-images.githubusercontent.com/77688759/161713346-688ebc8c-7335-4de8-8f6c-3ce75dc6a06b.png)<br>
 
 - After enabling drive api, goto your oauth consent screen `cloud console home screen` > `hamburger menu on the left` > `api and services` > `oauth consen screen`
 
@@ -132,12 +132,11 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   
   <summary>Click Here</summary>
   
+<br>
+  
 - Now we need to host our token.pickle 
-
 - For that we will use google drive index.
-
 - This is the [repo](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index) we will be using for our google drive index.
-
 - Go to [this](https://bdi-generator.hashhackers.com/) link.
 - Sign in to get the Authentication Code.
   
@@ -151,8 +150,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161736264-f68a9e54-e495-4a16-aaea-351334164ff0.png)
 
 - For `Site Name` var, you can give any name for eg `personal`.
-
-- For `Share Drive ID or root` var, goto your drive and create a new folder for your index (don't create this folder in the shared drive you created previously).
+- For `Share Drive ID or root` var, goto your drive and create a new folder for your index (don't create this folder in the shared drive).
 
 ![image](https://user-images.githubusercontent.com/77688759/161736709-0adeca7d-f0d1-4caf-813a-a320822bdfe4.png)
 
@@ -169,8 +167,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161737009-ea620aef-7e44-436a-b84e-d6d5e6143daa.png)
 
 - Now goto [cloudflare](https://www.cloudflare.com/) and sign up for an account.
-
-Then goto  `workers`
+- Then goto  `workers`
 
 ![image](https://user-images.githubusercontent.com/77688759/161737351-e2324694-a145-4a14-850b-43f3e718d024.png)
 ![image](https://user-images.githubusercontent.com/77688759/161737457-28bedba5-5e0b-4c53-84d9-89629a0467a6.png)
