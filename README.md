@@ -32,7 +32,6 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   <summary>Click Here</summary>
 
 <br>
-<br>  
 - Goto your google cloud console. [Click Here](https://console.cloud.google.com)
 - Create a new project (if you already have a project then no need to create another one)
 
@@ -75,7 +74,6 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161715944-34b24641-a2b9-4236-8f97-b1a292e5e3e5.png)
 
 - After download rename it to `credentials.json`
-
 - Now move that credentials.json file to the extracted repo folder.
 
 ![image](https://user-images.githubusercontent.com/77688759/161720299-4ee43d15-f136-41e0-b5f7-2bb822429999.png)
@@ -89,7 +87,8 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 <details>
   
   <summary>Click Here</summary>
-  
+ 
+<br>  
 - For genrating token.pickle you will need python.
 - So install python from this link [Click Here](https://www.python.org/downloads/). (while installing, make sure that `add to the path` option is selected.)
 - Once installed, open cmd and run `python --version` to make that you have installed python correctly.
@@ -103,17 +102,11 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161721614-1a1af809-229c-49df-9f85-64f33debd543.png)
 
 - There you go.
-
 - Now give command
-
 `pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib`
-
 - Now for the next command make sure to set a default browser, in my case chrome is the default.
-
-Then run
-
+- Then run
 `python generate_drive_token.py`
-
 - One browser window will open, just follow the on screen prompt.
   
 ![image](https://user-images.githubusercontent.com/77688759/161724909-723eac9b-3caa-46bf-803c-4dd0c42b3642.png)
