@@ -75,6 +75,13 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161715944-34b24641-a2b9-4236-8f97-b1a292e5e3e5.png)
 
 - After download rename it to `credentials.json`
+- Make sure you have enabled "file name extensions"
+  
+![image](https://user-images.githubusercontent.com/77688759/161918765-1f570e63-3492-4d97-a5f9-720f0915b8a8.png)
+  
+- Most users basically rename credentials.json to credentials.json.json
+- Make sure that its credentials.json and not credentials.json.json.  
+  
 - Now move that credentials.json file to the extracted repo folder.
 
 ![image](https://user-images.githubusercontent.com/77688759/161720299-4ee43d15-f136-41e0-b5f7-2bb822429999.png)
