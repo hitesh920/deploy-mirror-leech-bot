@@ -279,9 +279,9 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   
 - This will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
 
-<b>App api_id</b> will be your TELEGRAM_API 
+`App api_id` will be your TELEGRAM_API 
 
-<b>App api_hash</b> will be your TELEGRAM_HASH
+`App api_hash` will be your TELEGRAM_HASH
 
 <b>TOKEN_PICKLE_URL</b>:
 - Go to your index link and click on the token.pickle u just hosted in step 3 and copy the direct download link.
