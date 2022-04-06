@@ -37,7 +37,6 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 - Create a new project (if you already have a project then no need to create another one)
 
 ![image](https://user-images.githubusercontent.com/77688759/161712563-4a2e83ab-b2ba-4134-8d92-cef8e2c09af2.png)
-<br>
 ![image](https://user-images.githubusercontent.com/77688759/161712650-1f2b0f7b-0a74-4527-a699-3e09feea2d3a.png)
 
 - Now select the project you just create.
@@ -180,7 +179,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161737848-9cbc23d0-edeb-424c-a9e5-73bbb8480b23.png)
 ![image](https://user-images.githubusercontent.com/77688759/161737948-9c5f1dc2-5a81-4e71-8721-de03fe813b99.png)
 
-- Remove all the content from here.
+- Remove all the default content from here.
 
 ![image](https://user-images.githubusercontent.com/77688759/161738144-1f6c94c6-7753-459d-8fe3-0ceb2d60ece0.png)
 
@@ -190,35 +189,33 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161738430-03e9d198-c810-457c-8315-db54b900b5c3.png)
 
 - Now wait for 10 seconds your index will be online.
+- Then go here and save the link for your index, it will come handy later.  
   
 ![image](https://user-images.githubusercontent.com/77688759/161738546-de13a74a-36cf-4949-b13e-74a650681f8f.png)  
-
-- Save the link for your index, will come handy later.
 
 - Now goto that drive folder u create for the index and upload your token.pickle 
 
 ![image](https://user-images.githubusercontent.com/77688759/161742717-3864b06b-8715-4799-bf77-7267bef39725.png)
 
-- Then open your index link click on `drive one` you will see your token.pickle u just uploaded.
+- Then open your index link click on `drive one` you will see your token.pickle file u just uploaded.
 
 ![image](https://user-images.githubusercontent.com/77688759/161739501-b250a124-5d75-45f2-8b5b-e10091cb7635.png)
 ![image](https://user-images.githubusercontent.com/77688759/161742804-90ebd60c-1f4f-48ff-8b99-7755a9fc2ffc.png)
 
-
-- We successfully hosted our token.pickle in our index. (Just dont share this index link, as it has confidential files.)
+- We successfully hosted our token.pickle in our index. (Just dont share this index link, as it has confidential file.)
 
   </details>
 
-## Step 4: Create config.env
+### Step 4: Create config.env
 
 <details>
   
   <summary>Click Here</summary>
   
+<br>
+  
 - Go [here](https://github.com/anasty17/mirror-leech-telegram-bot/raw/master/config_sample.env) and copy all the content.
-
 - Then goto [Github Gist](https://gist.github.com/)
-
 - Give your gist a name `config.env`
 
 ![image](https://user-images.githubusercontent.com/77688759/161727093-6bac51cf-f26d-46e7-950b-f85700b71be5.png)
@@ -232,71 +229,61 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161783724-04062575-c742-4500-9eb4-b703363bb037.png)  
 
 - Then start filling the config vars.
+- For now i will only show the necessary config values for the proper working of the mirror leech bot.
 
-- For now i will only show the necessary values for the proper working of the mirror leech bot.
-
-### BOT_TOKEN:
-- Search @BotFather on telegram, start the bot and type `/newbot` then follow the on screen instruction to create a new bot.
+<b>BOT_TOKEN</b>:
+- Search @BotFather on telegram, start the bot and send `/newbot` then follow the on screen instruction to create a new bot.
 
 ![image](https://user-images.githubusercontent.com/77688759/161728194-f12dd4e5-dab2-426d-a8af-b672ac7d3f69.png)
 
-- This will be your BOT_TOKEN
+- This will be the value of BOT_TOKEN 
 
   
-### GDRIVE_FOLDER_ID:
+<b>GDRIVE_FOLDER_ID</b>:
 - Search @MSGuite_SD_Creator_Bot on telegram, start the bot click on `genrate td` now send your email address, give your drive a good name for eg `hitesh920's drive` and done.
-
-- Now go inside the shared drive you just created by `your drive` > `shared drive` > `the shared drive you created`.
+- Now go inside the shared drive you just created by `google drive` > `shared drive` > `the shared drive you created`.
 
 ![image](https://user-images.githubusercontent.com/77688759/161728959-fa766198-0e34-4d4d-bd51-f30f357d7d78.png)
   
 - Now copy the root id of your shared drive
-
 - For eg https://drive.google.com/drive/folders/xxxxxxxxxxx then the code after `folders/` will be the your root id
 
 ![image](https://user-images.githubusercontent.com/77688759/161729686-d9e79a8f-4479-46ae-84dc-1989df4c75f9.png)
 
 - This will be the value of GDRIVE_FOLDER_ID 
 
-  
-### OWNER_ID:
+<b>OWNER_ID</b>:
 - Search @MissRose_bot on telegram, start the bot then type `/id` bot will send your account's id
-
 - Use that for OWNER_ID
-
   
-### DOWNLOAD_DIR:
+<b>DOWNLOAD_DIR</b>:
 - Keep the default values, no need to change anything here.
 
-  
-### DOWNLOAD_STATUS_UPDATE_INTERVAL:
+<b>DOWNLOAD_STATUS_UPDATE_INTERVAL</b>:
 - Keep the default values, no need to change anything here.
 
-  
-### AUTO_DELETE_MESSAGE_DURATION:
+<b>AUTO_DELETE_MESSAGE_DURATION</b>:
 - Keep the default values, no need to change anything here.
-
   
-### IS_TEAM_DRIVE:
+<b>IS_TEAM_DRIVE</b>:
 - Set this to `True` as we are using shared drive.
-
   
-### TELEGRAM_API & TELEGRAM_HASH:
+</b>TELEGRAM_API & TELEGRAM_HASH</b>:
 - Go [here](my.telegram.org) and register with your number connected to telegram account fill with your number , choose desktop,  fill app title and short name to any name you want.
 
 ![image](https://user-images.githubusercontent.com/77688759/161731080-bff37137-e53a-4774-a1bd-6288491ca494.png)
 
-Then goto https://my.telegram.org/apps 
+- Then goto https://my.telegram.org/apps 
   
 ![image](https://user-images.githubusercontent.com/77688759/161785532-bef462f6-1416-42ab-b0c7-48c2d6001baa.png)
   
 - This will give the values of `TELEGRAM_API` and `TELEGRAM_HASH`
 
 <b>App api_id</b> will be your TELEGRAM_API 
-  
+
 <b>App api_hash</b> will be your TELEGRAM_HASH
 
-### TOKEN_PICKLE_URL:
+<b>TOKEN_PICKLE_URL</b>:
 - Go to your index link and click on the token.pickle u just hosted in step 3 and copy the direct download link.
   
 ![image](https://user-images.githubusercontent.com/77688759/161749786-d71ab726-51b9-49b7-9dae-b584cd3177e2.png)
@@ -304,7 +291,6 @@ Then goto https://my.telegram.org/apps
 - And use that url for TOKEN_PICKLE_URL
 
 - We are done with the all necessary configs for the proper working of your mirror leech bot.
-
 - It should look like this after filling all the necessary values
   
 ![image](https://user-images.githubusercontent.com/77688759/161732551-fe9424b4-d141-481c-9de3-d0cb368c1c96.png)
@@ -317,18 +303,20 @@ Then goto https://my.telegram.org/apps
   
 </details>
   
-## Step 5: Setting Up Secrets For Github Action
+### Step 5: Setting Up Secrets For Github Action
 
 <details>
   
   <summary>Click Here</summary>
+  
+<br>
   
 - Goto your forked repo > settings > secrets > action
 
 ![image](https://user-images.githubusercontent.com/77688759/161750596-e539db44-2a42-4ac9-bc0d-b593777f84ee.png)
 ![image](https://user-images.githubusercontent.com/77688759/161753272-ddad44c9-2c98-40d0-b06a-67027ab222dd.png)
 
-## Now here under secrets, you need to create four secrets 
+<b>Now here under secrets, you need to create four secrets</b> 
 - HEROKU_EMAIL
 - HEROKU_API_KEY
 - HEROKU_APP_NAME
@@ -341,7 +329,6 @@ Then goto https://my.telegram.org/apps
 
 ### HEROKU_API_KEY
 - Goto your heroku account settings [Here](https://dashboard.heroku.com/account)
-
 - Scroll down and copy thr api key
 
 ![image](https://user-images.githubusercontent.com/77688759/161752797-4a3c4798-352e-4c33-af23-ac0b5b9af3bf.png)
@@ -357,16 +344,16 @@ Then goto https://my.telegram.org/apps
 ![image](https://user-images.githubusercontent.com/77688759/161732830-d9489120-9d3c-4f74-8619-8c1fb94b8478.png)
 
 - And copy the url then remove the commit id
-
 - For eg `https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env` then the commit id will the one after `raw/` and before `/config.env`
 
 
-`original config.env url`: https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env
+`original config.env url`:<br> 
+https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/200d4a93e0eb5ee8d4b0e5a377ce0396a131843e/config.env
 
-`url after removing commit id`: https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/config.env
+`url after removing commit id`:<br>
+https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/raw/config.env
 
 - After removing the commit id use that url for the CONFIG_FILE_URL
-
 - Once all the four secrets have been added, it should look like this
 
 ![image](https://user-images.githubusercontent.com/77688759/161755355-afcda2b7-3fb1-4e52-8876-162932213e40.png)
@@ -379,7 +366,7 @@ Then goto https://my.telegram.org/apps
 
 <details>
   
-  <summary>CLick Here</summary>
+  <summary>Click Here</summary>
 
 We will use github action to deploy bot. 
   
@@ -392,18 +379,11 @@ We will use github action to deploy bot.
 ![image](https://user-images.githubusercontent.com/77688759/161756393-a5c09aaf-2e9b-4e81-a009-d11715eb1dad.png)
 
 - Now your workflow will start, deploy will take arround 3-4 minutes.
-
 - You can check the workflow logs at
 
 ![image](https://user-images.githubusercontent.com/77688759/161756625-5d687723-c6a1-4bd7-b74e-8e2f27fe6611.png)
 ![image](https://user-images.githubusercontent.com/77688759/161756690-acff8feb-f84d-4424-ae67-9812dc2cc4b1.png)
 ![image](https://user-images.githubusercontent.com/77688759/161756737-0d68d550-ec89-42f4-a95d-9b023d69fa82.png)
-  
-- If you get eror like name already taken
-  
-![image](https://user-images.githubusercontent.com/77688759/161786918-7c57a659-197d-44cb-865a-748fbf14f075.png)
-  
-then it means the name you used for `HEROKU_APP_NAME` is already taken <b>duhh?</b>. so go to the repo secrets again find that `HEROKU_APP_NAME` secret click on update and choose a diffrent name (i already said name must be unique) and start the workflow again.
   
 - Once deployment done
 
@@ -431,6 +411,14 @@ then it means the name you used for `HEROKU_APP_NAME` is already taken <b>duhh?<
 
 
 # F.A.Q
+
+<b>Error while deploying?
+  
+- If you get eror like name already taken
+  
+![image](https://user-images.githubusercontent.com/77688759/161786918-7c57a659-197d-44cb-865a-748fbf14f075.png)
+  
+then it means the name you used for `HEROKU_APP_NAME` is already taken <b>duhh?</b>. so go to the repo secrets again find that `HEROKU_APP_NAME` secret click on update and choose a diffrent name (i already said name must be unique) and start the workflow again.  
   
 <b>How to set bot commands?</b>
   
