@@ -32,6 +32,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   <summary>Click Here</summary>
 
 <br>
+  
 - Goto your google cloud console. [Click Here](https://console.cloud.google.com)
 - Create a new project (if you already have a project then no need to create another one)
 
@@ -89,6 +90,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   <summary>Click Here</summary>
  
 <br>  
+  
 - For genrating token.pickle you will need python.
 - So install python from this link [Click Here](https://www.python.org/downloads/). (while installing, make sure that `add to the path` option is selected.)
 - Once installed, open cmd and run `python --version` to make that you have installed python correctly.
