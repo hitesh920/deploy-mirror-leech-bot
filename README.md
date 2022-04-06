@@ -300,7 +300,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161732712-6c3741ac-494b-496d-8fea-3ae21fc8ef3f.png)
 
 <b>BASE_URL_OF_BOT</b>:
-- https://yourappname.<herokuapp>.com, suppose if your heroku app name will be `hitesh920---test--bot` then the BASE_URL_OF_BOT will be `https://yourappname.hitesh920---test--bot.com`
+- https://yourappname.herokuapp.com, suppose if your heroku app name will be `hitesh920-mirrorbot` then the BASE_URL_OF_BOT will be `https://yourappname.hitesh920-mirrorbot.com`
   
 DONE.  
 - We have successfully created our config.env
