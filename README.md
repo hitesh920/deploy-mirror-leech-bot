@@ -290,6 +290,9 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 - And use that url for TOKEN_PICKLE_URL
 
+<b>BASE_URL_OF_BOT</b>:
+- https://yourappname.herokuapp.com, suppose if your heroku app name will be `hitesh920-mirrorbot` then the BASE_URL_OF_BOT will be `https://yourappname.hitesh920-mirrorbot.com`
+
 - We are done with the all necessary configs for the proper working of your mirror leech bot.
 - It should look like this after filling all the necessary values
   
@@ -299,10 +302,6 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
   
 ![image](https://user-images.githubusercontent.com/77688759/161732712-6c3741ac-494b-496d-8fea-3ae21fc8ef3f.png)
 
-<b>BASE_URL_OF_BOT</b>:
-- https://yourappname.herokuapp.com, suppose if your heroku app name will be `hitesh920-mirrorbot` then the BASE_URL_OF_BOT will be `https://yourappname.hitesh920-mirrorbot.com`
-  
-DONE.  
 - We have successfully created our config.env
   
 </details>
@@ -407,12 +406,13 @@ We will use github action to deploy bot.
 ![image](https://user-images.githubusercontent.com/77688759/161757727-e0a45cad-cf5a-4dd3-a1cc-a93adf2bf3b9.png)
 
 - And done, congratulations.
-  
-<b>I will recommend go through the README.md file of the bot repo to know about all the optional config vars, bot commands and all.
-- README.md of master branch [Click Here](https://github.com/anasty17/mirror-leech-telegram-bot/blob/master/README.md)
 
 </details>
 
+<b>I will recommend go through the README.md file of the bot repo to know about all the optional config vars, bot commands and all.
+- README.md of master branch [Click Here](https://github.com/anasty17/mirror-leech-telegram-bot/blob/master/README.md)</b>
+
+<br><br><br><br>
  ## Credits
  
  - [Anasty](https://github.com/anasty17) for the mirror leech bot repo.
