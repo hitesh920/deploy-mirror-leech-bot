@@ -416,7 +416,7 @@ We will use github action to deploy bot.
 - If you want to update config.env then goto your config.env gist > edit > save > then `/restart` the bot.
 - If you want to redeploy the just follow the step 6 and start the workflow again.
 - To know more about all the optional configs then read the README.md file of the bot repo.
-- To set bot commands you can use @BotFather useing `/setcommands`, all the commands are listed in the README.md file of the bot repo.
+- To set bot commands, then you can use @BotFather using `/setcommands`. All the commands are listed in the README.md file of the bot repo.
 
 
 ## Credits
