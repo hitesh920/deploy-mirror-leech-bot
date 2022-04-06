@@ -10,8 +10,8 @@
 
 ## Repo Link: [Here](https://github.com/anasty17/mirror-leech-telegram-bot)
 
-In this guide we will deploy our mirror bot on heroku using github action. keep this thing in mind that deploying mirror bot on heroku may result in suspension of the heroku account account. 
-<br>If you starting fresh, then this guide will easily take your 1-2 hours.
+In this guide we will deploy our mirror bot on heroku using github action. keep this thing in mind that deploying mirror bot on heroku may result in suspension of the heroku account account. <br>
+If you starting fresh, then this guide will easily take your 1-2 hours.
 
 <b>Ok then lets start</b>.
 
