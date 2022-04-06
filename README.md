@@ -421,7 +421,7 @@ We will use github action to deploy bot.
 - If you facing error while deploying or have any other doubt then you can ask for help at [@mirrorsociety](https://t.me/mirrorsociety) by tagging @hitesh920.
 - If you want to update your bot then just do `/restart` or you can also turn dynos off and on from your heroku app.
 - If you want to update config.env then goto your config.env gist > edit > save > then `/restart` the bot.
-- If you want to redeploy the just follow the step 6 and start the workflow again.
+- If you want to redeploy the bot then just goto heroku website then delete the app you deployed and follow the step 6 and start the workflow again.
 - To know more about all the optional configs then read the README.md file of the bot repo.
 - To set bot commands, then you can use @BotFather using `/setcommands`. All the commands are listed in the README.md file of the bot repo.
 
