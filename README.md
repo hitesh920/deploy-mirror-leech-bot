@@ -497,6 +497,8 @@ help - All cmds with description
 <b>6.)</b> Where i can find the info abt all the optional configs?
 - Read the README.md file of the mirror leech bot repo to know more abt all the optional configs.
   
+</details>
+
  ## Credits
  
  - [Anasty](https://github.com/anasty17) for the mirror leech bot repo.
