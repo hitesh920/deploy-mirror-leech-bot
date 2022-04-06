@@ -30,7 +30,9 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 <details>
   
   <summary>Click Here</summary>
-  
+
+<br>
+<br>  
 - Goto your google cloud console. [Click Here](https://console.cloud.google.com)
 - Create a new project (if you already have a project then no need to create another one)
 
