@@ -362,7 +362,7 @@ https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/r
   
 </details>  
 
-## Step 5: Deploy Bot
+### Step 6: Deploy Bot
 
 <details>
   
