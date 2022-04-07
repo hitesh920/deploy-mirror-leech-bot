@@ -14,8 +14,9 @@
 ![image](https://user-images.githubusercontent.com/77688759/162171242-319e993d-b556-4cdd-9de5-636564b1cf8d.png)
 
 - Once enabled, wait for 3-4 minutes
-- Then open the cmd from that extracted repo folder by just typing <b>cmd</b> in the address bar then hit enter.
-- Now make sure that credentials.json file is there, then run `python gen_sa_accounts.py --list-projects`
+- Goto that extracted repo folder, now make sure that credentials.json file is there
+- Then open the cmd from that extracted repo folder by typing <b>cmd</b> in the address bar then hit enter.
+- Then run `python gen_sa_accounts.py --list-projects`
 - One a windows will open in your default browser, just follow the on screen prompt.
 
 ![image](https://user-images.githubusercontent.com/77688759/162172650-3afdd3ce-002f-4d22-8273-689c1286b38d.png)
