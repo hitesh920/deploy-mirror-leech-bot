@@ -69,8 +69,9 @@
 - Goto your extracted repo folder, right click on the accounts folder then zip the accounts folder using `7zip` software.
 
 ![image](https://user-images.githubusercontent.com/77688759/162178293-3d849de2-3eab-47ee-8496-d823d1a2caad.png)
+![image](https://user-images.githubusercontent.com/77688759/162181945-40b9e421-f759-487e-a835-875cf5f9acb3.png)
 
-- Then upload that accounts folder to that index folder you created in your google drive in step 3
+- Then upload that accounts.zip file to that index folder you created in your google drive in step 3
 - Now goto your config.env gist look for `ACCOUNTS_ZIP_URL` var and fill it with the direct download link for your accounts.zip, its the same process you did for your <b>TOKEN_PICKLE_URL</b> in step 4
 - Then look for `USE_SERVICE_ACCOUNTS` var and set that to `True`
 
