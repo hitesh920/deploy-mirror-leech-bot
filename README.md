@@ -15,7 +15,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 <b>Ok then lets start</b>.
 
-### Step 1: Fork And Download the repo
+### Step 1: Fork And Download The Repo
 
 <details>
   
