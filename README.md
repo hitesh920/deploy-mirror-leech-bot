@@ -1,10 +1,10 @@
 ## What Are Service Accounts?
 - Service accounts can transfer 75 TB per day in shared drive where as normal account can only transfer 750 GB per day in shared drive.
 
-## So How Service Accounts Works?
-- Basically 1 project in google cloud console can genrate 100 service accounts
+## So How Service Accounts Work?
+- Basically 1 project in google cloud console can generate 100 service accounts
 - Consider 1 service account as a normal account but x 100 so there will be 100 accounts to upload stuff
-- 1 service/normal account can upload 750 GB per day in a shared drive so 100 service accounts can upload 75 TB pre day (`750 GB per day` x `100 service account` = `75 TB of upload limit`). 
+- 1 service/normal account can upload 750 GB per day in a shared drive so 100 service accounts can upload 75 TB per day (`750 GB per day` x `100 service account` = `75 TB of upload limit`). 
 
 ## Create Service Account
 - Goto your google cloud console [Click Here](https://console.cloud.google.com/)
