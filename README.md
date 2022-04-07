@@ -313,7 +313,7 @@ It should look like this after filling all the necessary values
   
 </details>
   
-### Step 5: Setting Up Secrets For Github Action
+### Step 5: Set Up Secrets For Github Action
 
 <details>
   
