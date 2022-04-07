@@ -42,7 +42,7 @@
 ![image](https://user-images.githubusercontent.com/77688759/162175398-9f525136-7bdf-4a40-839f-ffe6bc956cb1.png)
 
 - Now again,  wait for 2-3 minutes before running the next command.
-- After 2-3 minutes, run `python gen_sa_accounts.py --download-keys <your project id>` this command will download all the 100 servie account under accounts folder
+- After 2-3 minutes, run `python gen_sa_accounts.py --download-keys <your project id>` this command will download all the 100 service account under accounts folder
 
 ![image](https://user-images.githubusercontent.com/77688759/162175914-ed42ad68-8c34-413e-bbaf-100f9177f25d.png)
 
