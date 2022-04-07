@@ -32,7 +32,8 @@
 ![image](https://user-images.githubusercontent.com/77688759/162174163-fc8d55f3-941c-431e-a962-bbe60c03d86e.png)
 
 - That will be your project id, note that project id because we need that in the next commands
-- Now run `python gen_sa_accounts.py --enable-services <project id>` this command will enable all the services need for creating a service account. In my case, my project id is <b>personal-345709</b> so i will run <b>python gen_sa_accounts.py --enable-services personal-345709</b> 
+- Now run `python gen_sa_accounts.py --enable-services <project id>`. This command will enable all the services need for creating a service account.
+- <b>Note</b>: replace `<project id>` with your project id. In my case, my project id is <b>personal-345709</b> so i will run <b>python gen_sa_accounts.py --enable-services personal-345709</b> 
 
 ![image](https://user-images.githubusercontent.com/77688759/162174671-a31d0c37-d347-4565-9a99-58f7aa84829b.png)
 
