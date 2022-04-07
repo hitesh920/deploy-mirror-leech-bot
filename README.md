@@ -114,7 +114,7 @@ to make that you have installed python correctly.
 
 - There you go.
 - Now give command
-`pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib`
+```pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib```
 - Now for the next command make sure to set a default browser, in my case chrome is the default.
 - Then run
 `python generate_drive_token.py`
