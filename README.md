@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/77688759/162172853-0690179c-3dab-43cf-8b8f-fd2151536574.png)
 ![image](https://user-images.githubusercontent.com/77688759/162173211-d12acf47-b795-4a20-90e6-f1bb135c76f6.png)
 
-- Once your reach this screen, one file named `token_sa.pickle` will genrate automatically. We need that file later.
+- Once your reach this screen, one file named `token_sa.pickle` will generate automatically. We need this file later.
 
 ![image](https://user-images.githubusercontent.com/77688759/162173264-b75023a8-8826-4445-9ab4-0002b45b040c.png)
 
@@ -72,12 +72,10 @@
 ![image](https://user-images.githubusercontent.com/77688759/162178293-3d849de2-3eab-47ee-8496-d823d1a2caad.png)
 ![image](https://user-images.githubusercontent.com/77688759/162181945-40b9e421-f759-487e-a835-875cf5f9acb3.png)
 
-- Then upload that accounts.zip file to that index folder you created in your google drive in step 3
-- And if you check the extracted repo folder, you will find `token_sa.pickle`.
+- Then upload that accounts.zip file and token_sa.pickle file to that index folder you created in your google drive in step 3
 
 ![image](https://user-images.githubusercontent.com/77688759/162188136-f4d03c5f-7d8d-4b4f-ab43-e0a7b36b3b27.png)
 
-- This was genrated automatically when you created service accounts. Upload that also in the index folder fo your google drive
 - Now goto your config.env gist, look for `ACCOUNTS_ZIP_URL` var and fill it with the direct download link for your accounts.zip, its the same process you did for your <b>TOKEN_PICKLE_URL</b> in step 4
 - You need to use token_sa.pickle instead of token.pickle, update the value for `TOKEN_PICKLE_URL` with the direct download link of your token_sa.pickle
 - Then look for `USE_SERVICE_ACCOUNTS` var and set that to `True`
