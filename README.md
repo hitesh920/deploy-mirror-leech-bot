@@ -1,4 +1,4 @@
-## What Are Serive Accounts?
+## What Are Service Accounts?
 - Service accounts can upload 75 TB per day in shared drive where as normal account can only transfer 750 GB per day in shared drive.
 
 ## So How Service Accounts Works?
