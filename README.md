@@ -57,7 +57,7 @@
 ## Add Service Accounts To Shared Drive.
 - Now after creating our service accounts, we need to add them to our shared drive.
 - Run `pip install progress`
-- Then run `python add_to_team_drive.py -d <shared drive's root id>`. In my case my shared drives root id id <b>0AD6zA275hmA7Uk9PVA</b> 
+- Then run `python add_to_team_drive.py -d <shared drive's root id>`. In my case my shared drive's root id is <b>0AD6zA275hmA7Uk9PVA</b> 
 
 ![image](https://user-images.githubusercontent.com/77688759/162176870-8b2e5cd6-669f-4e50-80b1-c49379dd7f1a.png)
 ![image](https://user-images.githubusercontent.com/77688759/162177338-89673e47-2b0b-49d6-a691-051c4dbf590b.png)
