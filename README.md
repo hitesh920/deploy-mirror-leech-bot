@@ -3,7 +3,7 @@
 
 ## So How Service Accounts Works?
 - Basically 1 project in google cloud console can genrate 100 service accounts
-- consider 1 service account as a normal account but x 100 so there will be 100 accounts to upload stuff
+- Consider 1 service account as a normal account but x 100 so there will be 100 accounts to upload stuff
 - 1 service/normal account can upload 750 GB per day in a shared drive so 100 service accounts can upload 75 TB pre day `750 GB per day X 100 service account` = `75 TB of upload limit`. 
 
 ## Create Service Account
