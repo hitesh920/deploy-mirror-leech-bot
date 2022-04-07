@@ -32,18 +32,18 @@
 ![image](https://user-images.githubusercontent.com/77688759/162174163-fc8d55f3-941c-431e-a962-bbe60c03d86e.png)
 
 - That will be your project id, note that project id because we need that in the next commands
-- Now run `python gen_sa_accounts.py --enable-services <project id>`. This command will enable all the services need for creating a service account.
-- <b>Note</b>: Replace `<project id>` with your project id. In my case, my project id is <b>personal-345709</b> so i will run <b>python gen_sa_accounts.py --enable-services personal-345709</b> 
+- Now run `python gen_sa_accounts.py --enable-services <your project id>`. This command will enable all the services need for creating a service account.
+- <b>Note</b>: Replace `<your project id>` with your project id. In my case, my project id is <b>personal-345709</b> so i will run <b>python gen_sa_accounts.py --enable-services personal-345709</b> 
 
 ![image](https://user-images.githubusercontent.com/77688759/162174671-a31d0c37-d347-4565-9a99-58f7aa84829b.png)
 
 - Now you have to wait 4-5 minutes. before running the next command.
-- After 4-5 minutes, run `python gen_sa_accounts.py --create-sas <project id>` this will create 100 service accounts in your project
+- After 4-5 minutes, run `python gen_sa_accounts.py --create-sas <your project id>` this will create 100 service accounts in your project
 
 ![image](https://user-images.githubusercontent.com/77688759/162175398-9f525136-7bdf-4a40-839f-ffe6bc956cb1.png)
 
 - Now again,  wait for 2-3 minutes before running the next command.
-- After 2-3 minutes, run `python gen_sa_accounts.py --download-keys <project id>` this command will download all the 100 servie account in 0-99.json files under accounts folder
+- After 2-3 minutes, run `python gen_sa_accounts.py --download-keys <your project id>` this command will download all the 100 servie account in 0-99.json files under accounts folder
 
 ![image](https://user-images.githubusercontent.com/77688759/162175914-ed42ad68-8c34-413e-bbaf-100f9177f25d.png)
 
