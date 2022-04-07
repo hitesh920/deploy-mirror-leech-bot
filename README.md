@@ -15,6 +15,12 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 <b>Ok then lets start</b>.
 
+### Step 1: Fork And Download the repo
+
+<details>
+  
+  <summary>Click Here</summary>
+  
 - First thing first, goto bot repo [Click Here](https://github.com/anasty17/mirror-leech-telegram-bot) and fork the bot repo.
 
 ![image](https://user-images.githubusercontent.com/77688759/161710615-c450b852-6acc-481b-a84f-5b3d054b6b05.png)
@@ -24,8 +30,10 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161710894-b2840ddf-c186-4a9f-bcb0-e301ffd2d253.png)
 
 - The downloaded repo will be in zip file, so extract it.
+  
+</details>  
 
-### Step 1: Create credentials.json
+### Step 2: Create credentials.json
 
 <details>
   
@@ -88,7 +96,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 </details>
   
-### Step 2: Create token.pickle
+### Step 3: Create token.pickle
 
 <details>
   
@@ -139,7 +147,7 @@ python generate_drive_token.py
 
 </details>  
 
-### Step 3: Hosting token.pickle
+### Step 4: Hosting token.pickle
 
 <details>
   
@@ -219,7 +227,7 @@ python generate_drive_token.py
 
   </details>
 
-### Step 4: Create config.env
+### Step 5: Create config.env
 
 <details>
   
@@ -297,7 +305,7 @@ python generate_drive_token.py
 `App api_hash` will be your TELEGRAM_HASH
 
 <b>TOKEN_PICKLE_URL</b>:
-- Go to your index link and click on the token.pickle u just hosted in step 3 and copy the direct download link.
+- Go to your index link and click on the token.pickle u just hosted in step 4 and copy the direct download link.
   
 ![image](https://user-images.githubusercontent.com/77688759/161749786-d71ab726-51b9-49b7-9dae-b584cd3177e2.png)
 
@@ -321,7 +329,7 @@ It should look like this after filling all the necessary values
   
 </details>
   
-### Step 5: Set Up Secrets For Github Action
+### Step 6: Set Up Secrets For Github Action
 
 <details>
   
@@ -380,7 +388,7 @@ https://gist.githubusercontent.com/ghostmirrorlab/f9b1e6xxxxxxxxxxxxxaaac04520/r
   
 </details>  
 
-### Step 6: Deploy Bot
+### Step 7: Deploy Bot
 
 <details>
   
@@ -430,7 +438,7 @@ We will use github action to deploy bot.
 - Have any questions? Join the support group [Click Here](https://t.me/+PRRzqHd31XY3ZWZk).
 - If you want to update your bot then just do `/restart` or you can also turn dynos off and on from your heroku app.
 - If you want to update config.env then goto your config.env gist > edit > save > then `/restart` the bot.
-- If you want to redeploy the bot then just goto heroku website then delete the app you deployed and follow the step 6 and start the workflow again.
+- If you want to redeploy the bot then just goto heroku website then delete the app you deployed and follow the step 7 and start the workflow again.
 - To know more about all the optional configs then read the README.md file of the bot repo.
 - To set bot commands, then you can use @BotFather using `/setcommands`. All the commands are listed in the README.md file of the bot repo.
 
