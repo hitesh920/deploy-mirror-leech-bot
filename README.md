@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/77688759/162173264-b75023a8-8826-4445-9ab4-0002b45b040c.png)
 
-- Now in the cmd windows you will see the projects you have in your google cloud console.
+- Now in the cmd window you will see the projects you have in your google cloud console.
 
 ![image](https://user-images.githubusercontent.com/77688759/162174163-fc8d55f3-941c-431e-a962-bbe60c03d86e.png)
 
