@@ -1,10 +1,12 @@
 ## What Are Service Accounts?
 - Service accounts can transfer 75 TB per day in shared drive where as normal account can only transfer 750 GB per day in shared drive.
+- Its usefull if you want to upload/clone a file with the size of 750 GB or more.  
 
 ## So How Service Accounts Work?
 - Basically 1 project in google cloud console can generate 100 service accounts
 - Consider 1 service account as a normal account but x 100 so there will be 100 accounts to upload stuff
 - 1 service/normal account can upload 750 GB per day in a shared drive so 100 service accounts can upload 75 TB per day (`750 GB per day` x `100 service account` = `75 TB of transfer limit`). 
+- When you mirror/clone something using mirror bot, bot uses any ramdom service account to upload/clone that file to the shared drive and when the limit i.e 750 GB hits, then bot switch to another service account. There are 100 service accounts available to use. Now for eg. if u want to upload/clone a file which has a size of 75 TB, then bot will switch the service account 100 times to upload that file to the shared drive.
 
 ## Create Service Account
 
