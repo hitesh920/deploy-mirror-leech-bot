@@ -441,7 +441,7 @@ We will use github action to deploy bot.
 - If you want to redeploy the bot then just goto heroku website then delete the app you deployed and follow the step 7 and start the workflow again.
 - To know more about all the optional configs then read the README.md file of the bot repo.
 - To set bot commands, then you can use @BotFather using `/setcommands`. All the commands are listed in the README.md file of the bot repo.
-- Want to ask something els? Join [Mirror Socity](https://t.me/mirrorsociety) we will have a good chat there! :)
+- Want to ask something els? Join [Mirror Socity](https://t.me/mirrorsociety).
 
 ## Credits
  
