@@ -23,11 +23,9 @@
 ![image](https://user-images.githubusercontent.com/77688759/162172782-5f433420-575c-441f-9c5d-6a486f28eb37.png)
 ![image](https://user-images.githubusercontent.com/77688759/162172853-0690179c-3dab-43cf-8b8f-fd2151536574.png)
 ![image](https://user-images.githubusercontent.com/77688759/162173211-d12acf47-b795-4a20-90e6-f1bb135c76f6.png)
-
-- Once your reach this screen, one file named `token_sa.pickle` will generate automatically. We need this file later.
-
 ![image](https://user-images.githubusercontent.com/77688759/162173264-b75023a8-8826-4445-9ab4-0002b45b040c.png)
 
+- Once your reach this screen, one file named `token_sa.pickle` will generate automatically. We need this file later.
 - Now in the cmd window you will see the projects you have in your google cloud console.
 
 ![image](https://user-images.githubusercontent.com/77688759/162174163-fc8d55f3-941c-431e-a962-bbe60c03d86e.png)
