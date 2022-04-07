@@ -73,7 +73,7 @@
 ![image](https://user-images.githubusercontent.com/77688759/162181945-40b9e421-f759-487e-a835-875cf5f9acb3.png)
 
 - Then upload that accounts.zip file to that index folder you created in your google drive in step 3
-- And if you check the extracted repo folder, you will find `token_sa.pickel`.
+- And if you check the extracted repo folder, you will find `token_sa.pickle`.
 
 ![image](https://user-images.githubusercontent.com/77688759/162188136-f4d03c5f-7d8d-4b4f-ab43-e0a7b36b3b27.png)
 
