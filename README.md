@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/77688759/162172853-0690179c-3dab-43cf-8b8f-fd2151536574.png)
 ![image](https://user-images.githubusercontent.com/77688759/162173211-d12acf47-b795-4a20-90e6-f1bb135c76f6.png)
 
-- Once your reach this screen 
+- Once your reach this screen, one file named `token_sa.pickle` will genrate automatically. We need that file later.
 
 ![image](https://user-images.githubusercontent.com/77688759/162173264-b75023a8-8826-4445-9ab4-0002b45b040c.png)
 
@@ -73,7 +73,9 @@
 ![image](https://user-images.githubusercontent.com/77688759/162181945-40b9e421-f759-487e-a835-875cf5f9acb3.png)
 
 - Then upload that accounts.zip file to that index folder you created in your google drive in step 3
+- And f you check the extracked repo folder you will find `token_sa.pickel` which was genrated automatically when you run the first command `python gen_sa_accounts.py --list-projects` upload that also in the index folder fo your google drive
 - Now goto your config.env gist, look for `ACCOUNTS_ZIP_URL` var and fill it with the direct download link for your accounts.zip, its the same process you did for your <b>TOKEN_PICKLE_URL</b> in step 4
+- You need to use token_sa.pickle instead of token.pickle, update the value for `TOKEN_PICKLE_URL` with the direct download link of your token_sa.pickle
 - Then look for `USE_SERVICE_ACCOUNTS` var and set that to `True`
 
 ![image](https://user-images.githubusercontent.com/77688759/162179468-7c09fea9-2222-47d5-a909-d2d623161a7f.png)
