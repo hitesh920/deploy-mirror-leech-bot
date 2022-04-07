@@ -7,6 +7,13 @@
 - 1 service/normal account can upload 750 GB per day in a shared drive so 100 service accounts can upload 75 TB per day (`750 GB per day` x `100 service account` = `75 TB of transfer limit`). 
 
 ## Create Service Account
+
+<details>
+  
+  <summary>Click Here</summary>
+  
+<br>
+  
 - Goto your google cloud console [Click Here](https://console.cloud.google.com/)
 - Search for `Identity and Access Management` and enable it.
 
@@ -53,7 +60,16 @@
 
 - And done! we have successfully created our 100 service accounts
 
+</details>
+  
 ## Add Service Accounts To Shared Drive.
+  
+<details>
+  
+  <summary>Click Here</summary>
+ 
+<br>
+  
 - Now after creating our service accounts, we need to add them to our shared drive.
 - Run `pip install progress`
 - Then run `python add_to_team_drive.py -d <shared drive's root id>`. In my case my shared drive's root id is <b>0AD6zA275hmA7Uk9PVA</b> 
@@ -63,7 +79,16 @@
 
 - And Done. we have successfully added our service accounts in our shared drive.
 
+</details>
+  
 ## Enable The Use Of Service Accounts For Our Mirror Bot
+  
+<details>
+  
+  <summary>Click Here</summary>
+
+<br>
+  
 - Zip the accounts folder.
 - Goto your extracted repo folder, right click on the accounts folder then zip the accounts folder using `7zip` software.
 
@@ -83,4 +108,4 @@
 
 - Done now just save the config.env gist and do `/restart` in your bot or you can just turn dynos off and on from heroku.
 
-
+</details>
