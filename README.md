@@ -65,7 +65,7 @@
 - And Done. we have successfully added our service accounts in our shared drive.
 
 ## Enable The Use Of Serive Accounts For Our Mirror Bot
-- Now we have to zip the accounts folder.
+- Zip the accounts folder.
 - Goto your extracted repo folder, right click on the accounts folder then then zip the accounts folder using `7zip` software.
 
 ![image](https://user-images.githubusercontent.com/77688759/162178293-3d849de2-3eab-47ee-8496-d823d1a2caad.png)
