@@ -418,6 +418,7 @@ We will use github action to deploy bot.
 
 ### Extra:
 
+- To use service account follow the `sa` branch or just [Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/sa/README.md)
 - Have any questions? Join [@mirrorsociety](https://t.me/mirrorsociety).
 - If you want to update your bot then just do `/restart` or you can also turn dynos off and on from your heroku app.
 - If you want to update config.env then goto your config.env gist > edit > save > then `/restart` the bot.
