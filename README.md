@@ -296,7 +296,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 - And use that url for TOKEN_PICKLE_URL
 
 <b>BASE_URL_OF_BOT</b>:
-- https://yourappname.herokuapp.com, suppose if your heroku app name will be `hitesh920-mirrorbot` then the BASE_URL_OF_BOT will be `https://yourappname.hitesh920-mirrorbot.com`
+- https://yourappname.herokuapp.com, suppose if your heroku app name will be `hitesh920-mirrorbot` then the BASE_URL_OF_BOT will be `https://hitesh920-mirrorbot.herokuapp.com`
 
 
 We are done with the all necessary configs for the proper working of your mirror leech bot.
