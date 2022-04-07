@@ -339,7 +339,7 @@ It should look like this after filling all the necessary values
 
 ### HEROKU_API_KEY
 - Goto your heroku account settings [Here](https://dashboard.heroku.com/account)
-- Scroll down and copy thr api key
+- Scroll down and copy the api key
 
 ![image](https://user-images.githubusercontent.com/77688759/161752797-4a3c4798-352e-4c33-af23-ac0b5b9af3bf.png)
 
