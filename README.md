@@ -25,7 +25,10 @@
 - Once enabled, wait for 3-4 minutes
 - Goto that extracted repo folder, now make sure that credentials.json file is there
 - Then open the cmd from that extracted repo folder by typing <b>cmd</b> in the address bar then hit enter.
-- Then run `python gen_sa_accounts.py --list-projects`
+- Then run 
+```
+  python gen_sa_accounts.py --list-projects
+```
 - One a windows will open in your default browser, just follow the on screen prompt.
 
 ![image](https://user-images.githubusercontent.com/77688759/162172650-3afdd3ce-002f-4d22-8273-689c1286b38d.png)
@@ -40,18 +43,30 @@
 ![image](https://user-images.githubusercontent.com/77688759/162174163-fc8d55f3-941c-431e-a962-bbe60c03d86e.png)
 
 - That will be your project id, note that project id because we need that in the next commands
-- Now run `python gen_sa_accounts.py --enable-services <your project id>`. This command will enable all the services need for creating a service account.
+- Now run 
+```
+python gen_sa_accounts.py --enable-services <your project id>
+``` 
+- This command will enable all the services need for creating a service account.
 - <b>Note</b>: Replace `<your project id>` with your project id. In my case, my project id is <b>personal-345709</b> so i will run <b>python gen_sa_accounts.py --enable-services personal-345709</b> 
 
 ![image](https://user-images.githubusercontent.com/77688759/162174671-a31d0c37-d347-4565-9a99-58f7aa84829b.png)
 
 - Now you have to wait 4-5 minutes. before running the next command.
-- After 4-5 minutes, run `python gen_sa_accounts.py --create-sas <your project id>` this will create 100 service accounts in your project
+- After 4-5 minutes, run 
+```
+python gen_sa_accounts.py --create-sas <your project id>
+``` 
+this will create 100 service accounts in your project
 
 ![image](https://user-images.githubusercontent.com/77688759/162175398-9f525136-7bdf-4a40-839f-ffe6bc956cb1.png)
 
 - Now again,  wait for 2-3 minutes before running the next command.
-- After 2-3 minutes, run `python gen_sa_accounts.py --download-keys <your project id>` this command will download all the 100 service account under accounts folder
+- After 2-3 minutes, run 
+```
+python gen_sa_accounts.py --download-keys <your project id>
+``` 
+this command will download all the 100 service account under accounts folder
 
 ![image](https://user-images.githubusercontent.com/77688759/162175914-ed42ad68-8c34-413e-bbaf-100f9177f25d.png)
 
@@ -73,8 +88,15 @@
 <br>
   
 - Now after creating our service accounts, we need to add them to our shared drive.
-- Run `pip install progress`
-- Then run `python add_to_team_drive.py -d <shared drive's root id>`. In my case my shared drive's root id is <b>0AD6zA275hmA7Uk9PVA</b> 
+- Run 
+```
+pip install progress
+```
+- Then run 
+```
+python add_to_team_drive.py -d <shared drive's root id>
+```
+- In my case my shared drive's root id is <b>0AD6zA275hmA7Uk9PVA</b> 
 
 ![image](https://user-images.githubusercontent.com/77688759/162176870-8b2e5cd6-669f-4e50-80b1-c49379dd7f1a.png)
 ![image](https://user-images.githubusercontent.com/77688759/162177338-89673e47-2b0b-49d6-a691-051c4dbf590b.png)
