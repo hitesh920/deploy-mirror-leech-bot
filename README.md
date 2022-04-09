@@ -443,5 +443,6 @@ We will use github action to deploy bot.
 - Want to ask something els? Join [Mirror Socity](https://t.me/mirrorsociety).
 
 
+# Credits
 
-[©hitesh920](https://t.me/hitesh920)</b>
+- [hitesh920](https://t.me/hitesh920)
