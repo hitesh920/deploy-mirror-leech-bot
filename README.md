@@ -312,7 +312,7 @@ python generate_drive_token.py
 - And use that url for TOKEN_PICKLE_URL
 
 <b>BASE_URL_OF_BOT</b>:
-- https://yourappname.herokuapp.com, suppose if my heroku app name is `hitesh920-mirrorbot` then the BASE_URL_OF_BOT will be `https://hitesh920-mirrorbot.herokuapp.com`
+- `https://yourappname.herokuapp.com`, suppose if my heroku app name is <b>hitesh920-mirrorbot</b> then the BASE_URL_OF_BOT will be <b>https://hitesh920-mirrorbot.herokuapp.com</b>
 
 
 We are done with the all necessary configs for the proper working of your mirror leech bot.
