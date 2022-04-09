@@ -442,4 +442,4 @@ We will use github action to deploy bot.
 - To set bot commands, then you can use @BotFather using `/setcommands`. All the commands are listed in the README.md file of the bot repo.
 - Want to ask something els? Join [Mirror Socity](https://t.me/mirrorsociety).
 
-<b>This guide created by [hitesh920](https://t.me/hitesh920)</b>
+# [©hitesh920](https://t.me/hitesh920)</b>
