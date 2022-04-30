@@ -314,6 +314,11 @@ python generate_drive_token.py
 <b>BASE_URL_OF_BOT</b>:
 - `https://yourappname.herokuapp.com`, suppose if my heroku app name is <b>hitesh920-mirrorbot</b> then the BASE_URL_OF_BOT will be <b>https://hitesh920-mirrorbot.herokuapp.com</b>
 
+<b>UPSTREAM_REPO</b>:
+Your forked repository link, if your repo is private add `https://username:{githubtoken}@github.com/{username}/{reponame}` format. Get token from [Github settings](https://github.com/settings/tokens). So you can update your bot from filled repository on each restart. **NOTE**: Any change in docker or requirements you need to deploy/build again with updated repo to take effect. DON'T delete .gitignore file. For more information read [THIS](https://github.com/anasty17/mirror-leech-telegram-bot/tree/master#upstream-repo-recommended).
+
+<b>UPSTREAM_BRANCH</b>:
+Upstream branch for update. Empty means `master`.
 
 We are done with the all necessary configs for the proper working of your mirror leech bot.
 
