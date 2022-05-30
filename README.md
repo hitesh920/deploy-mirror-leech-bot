@@ -1,4 +1,4 @@
-# Repo dosent support heroku now.
+# Repo dosen't support heroku now.
 # This meathod no longer works
 
 # Deploy Mirror Leech Bot
