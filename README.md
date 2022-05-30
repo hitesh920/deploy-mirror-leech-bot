@@ -1,3 +1,6 @@
+# Repo dosent support heroku now.
+# This meathod no longer works
+
 # Deploy Mirror Leech Bot
 
 ## Requirements
