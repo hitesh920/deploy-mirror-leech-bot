@@ -1,4 +1,3 @@
-# Repo dosen't support heroku now. This method no longer works
 
 # Deploy Mirror Leech Bot
 
@@ -320,7 +319,7 @@ python generate_drive_token.py
 - Your forked repository link, if your repo is private add `https://username:{githubtoken}@github.com/{username}/{reponame}` format. Get token from [Github settings](https://github.com/settings/tokens). So your bot can update from filled repository on each restart.
 
 <b>UPSTREAM_BRANCH</b>:
-- Upstream branch for update. Empty means `master`.
+- Fill `h-code` in UPSTREAM_BRANCH var
 
 We are done with the all necessary configs for the proper working of your mirror leech bot.
 
