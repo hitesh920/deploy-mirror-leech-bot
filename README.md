@@ -452,4 +452,4 @@ We will use github action to deploy bot.
 # Credits
 
 - [Anasty](https://github.com/anasty17) for the mirror bot repo
-- [hitesh920](https://t.me/hitesh920) for this guide
+- [Hitesh920](https://t.me/hitesh920) for this guide
