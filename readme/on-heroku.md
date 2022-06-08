@@ -26,3 +26,24 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 ![image](https://user-images.githubusercontent.com/77688759/161710894-b2840ddf-c186-4a9f-bcb0-e301ffd2d253.png)
 
 - The downloaded repo will be in zip file, so extract it.
+
+### Step 2: Create credentials.json
+
+[Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/credentials.md)
+
+### Step 3: Create token.pickle
+
+[Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/token.md)
+
+### Step 4: Hosting token.pickle
+
+[Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/host-creds.md)
+
+### Step 5: Create config.env
+
+[Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/config.md)
+
+### Step 6: Deploy
+
+[Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/via-action.md)
+
