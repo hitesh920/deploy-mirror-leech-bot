@@ -15,7 +15,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 <b>Ok then lets start</b>.
 
-### Step 1: Fork And Download The Repo
+### - Step 1: Fork And Download The Repo
 
 - First thing first, goto bot repo [Click Here](https://github.com/anasty17/mirror-leech-telegram-bot) and fork the bot repo.
 
@@ -27,23 +27,23 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 
 - The downloaded repo will be in zip file, so extract it.
 
-### Step 2: Create credentials.json
+### - Step 2: Create credentials.json
 
 [Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/credentials.md)
 
-### Step 3: Create token.pickle
+### - Step 3: Create token.pickle
 
 [Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/token.md)
 
-### Step 4: Hosting token.pickle
+### - Step 4: Hosting token.pickle
 
 [Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/host-creds.md)
 
-### Step 5: Create config.env
+### - Step 5: Create config.env
 
 [Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/config.md)
 
-### Step 6: Deploy
+### - Step 6: Deploy
 
 [Click Here](https://github.com/ghostmirrorlab/deploy-mirror-leech-bot/blob/main/readme/via-action.md)
 
