@@ -20,6 +20,7 @@ If you starting fresh, then this guide will easily take your 1-2 hours.
 - First thing first, goto bot repo [Click Here](https://github.com/anasty17/mirror-leech-telegram-bot) and fork the bot repo.
 
 ![image](https://user-images.githubusercontent.com/77688759/161710615-c450b852-6acc-481b-a84f-5b3d054b6b05.png)
+![image](https://user-images.githubusercontent.com/77688759/172556421-3d1643ca-e550-4ad6-984e-bb7a24d4bd33.png)
 
 - Now download that repo.
 
