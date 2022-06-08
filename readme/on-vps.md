@@ -16,19 +16,10 @@ wget https://github.com/ghostmirrorlab/scripts/raw/main/docker.sh
 bash docker.sh
 ```
   
-press `y` if asked for confirmation. and wait for the process to complete, it might takes few minutes.
+- press `y` if asked for confirmation. and wait for the process to complete, it might takes few minutes.
+- After every process complete, remove that docker.sh file using `rm docker.sh`
   
 - And we are dont with setting up the vps.
-  
-</details>  
-
-### Step 6: Deploy Bot
-
-<details>
-  
-  <summary>Click Here</summary>
-  
-<br>  
 
 - We need to build the docker first. Use this command
   
